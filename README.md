@@ -40,6 +40,7 @@ projeto-fraudes-cartao/
 │   ├── cartoes.csv                         # 2.328 cartões
 │   └── transacoes.csv                      # 34.917 transações de 2025
 ├── 04_prints/                              # imagens reais do projeto
+│   ├── capa_linkedin.png                   # capa com os KPIs principais
 │   ├── print_dashboard_final.png           # dashboard Power BI completo
 │   ├── print_sql_evolucao_mensal.png       # print real do SQL — evolução mensal da taxa de fraude (LAG)
 │   └── print_sql_percentis_valor.png       # print real do SQL — distribuição de valor (PERCENTILE_CONT)
