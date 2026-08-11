@@ -1,0 +1,1801 @@
+cliente_id;nome_completo;idade;cidade;uf;score_credito;data_cadastro
+1;Karina Esteves;58;Goiania;GO;598;2021-06-28
+2;Wagner Barros;39;Curitiba;PR;950;2025-02-08
+3;Gustavo Salgado;37;Rio de Janeiro;RJ;456;2024-11-11
+4;Leandro Teixeira;32;Curitiba;PR;783;2025-04-08
+5;Julia Ribas;44;Joinville;SC;621;2023-07-06
+6;Bruno Cardoso;46;Curitiba;PR;640;2021-01-20
+7;Nelson Cardoso;44;Blumenau;SC;663;2023-03-22
+8;Camila Salgado;48;Maringa;PR;661;2021-02-27
+9;Bruno Teixeira;57;Uberlandia;MG;666;2024-07-12
+10;Heitor Teixeira;20;Campinas;SP;632;2025-03-23
+11;Thiago Teixeira;33;Sao Paulo;SP;398;2021-06-21
+12;Bruno Henriques;43;Caxias do Sul;RS;716;2025-05-25
+13;Sabrina Esteves;18;Sao Paulo;SP;708;2022-09-02
+14;Nelson Esteves;54;Sao Paulo;SP;512;2024-08-06
+15;Thiago Junqueira;59;Sao Paulo;SP;613;2023-11-22
+16;Diego Teixeira;31;Sao Paulo;SP;822;2023-10-24
+17;Leandro Dias;42;Sao Paulo;SP;897;2025-03-19
+18;Thiago Barros;40;Rio de Janeiro;RJ;853;2023-08-11
+19;Patricia Salgado;39;Curitiba;PR;677;2021-02-14
+20;Eduardo Lacerda;47;Blumenau;SC;466;2020-09-11
+21;Thiago Pinheiro;36;Salvador;BA;781;2021-11-11
+22;Joao Henriques;33;Sao Paulo;SP;565;2023-11-26
+23;Cesar Henriques;36;Florianopolis;SC;836;2024-12-31
+24;Thiago Junqueira;22;Porto Alegre;RS;522;2020-01-11
+25;Patricia Lacerda;34;Sao Paulo;SP;520;2020-11-19
+26;Joao Vieira;46;Campinas;SP;718;2025-02-05
+27;Diego Ribas;56;Recife;PE;626;2021-03-25
+28;Fabio Lacerda;50;Fortaleza;CE;716;2024-03-19
+29;Julia Queiroz;35;Niteroi;RJ;454;2021-03-10
+30;Bruno Cardoso;29;Uberlandia;MG;699;2022-05-26
+31;Karina Machado;35;Salvador;BA;585;2020-05-07
+32;Thiago Pinheiro;61;Rio de Janeiro;RJ;497;2025-02-23
+33;Gustavo Cardoso;44;Curitiba;PR;724;2022-11-22
+34;Patricia Cardoso;24;Curitiba;PR;386;2025-03-28
+35;Debora Junqueira;65;Salvador;BA;745;2020-12-02
+36;Joao Nogueira;46;Maringa;PR;520;2022-01-10
+37;Ana Pinheiro;42;Florianopolis;SC;491;2021-12-07
+38;Fabio Vieira;43;Curitiba;PR;691;2024-08-09
+39;Patricia Barros;55;Goiania;GO;667;2023-06-22
+40;Eduardo Junqueira;28;Recife;PE;591;2024-06-20
+41;Debora Henriques;58;Salvador;BA;599;2021-06-16
+42;Marcia Queiroz;43;Salvador;BA;542;2025-01-05
+43;Fabio Pinheiro;23;Curitiba;PR;670;2021-05-31
+44;Sabrina Igreja;48;Curitiba;PR;582;2024-05-20
+45;Gustavo Oliveira;38;Rio de Janeiro;RJ;602;2022-10-18
+46;Cesar Oliveira;25;Caxias do Sul;RS;626;2021-11-23
+47;Yasmin Nogueira;45;Goiania;GO;664;2023-05-01
+48;Elaine Cardoso;56;Recife;PE;624;2023-12-11
+49;Elaine Henriques;49;Curitiba;PR;681;2023-04-21
+50;Ana Queiroz;26;Maringa;PR;544;2023-11-16
+51;Isabela Junqueira;31;Pelotas;RS;673;2025-11-15
+52;Elaine Oliveira;22;Campinas;SP;614;2021-10-11
+53;Vanessa Teixeira;18;Rio de Janeiro;RJ;691;2022-05-06
+54;Elaine Ribas;33;Pelotas;RS;601;2025-04-24
+55;Otavio Salgado;23;Fortaleza;CE;593;2021-07-08
+56;Marcia Nogueira;22;Sao Paulo;SP;580;2021-07-01
+57;Diego Queiroz;38;Fortaleza;CE;452;2021-06-05
+58;Bruno Gouveia;56;Belo Horizonte;MG;516;2025-03-01
+59;Gabriela Pinheiro;19;Uberlandia;MG;733;2024-02-06
+60;Diego Lacerda;49;Florianopolis;SC;791;2025-04-30
+61;Diego Almeida;60;Curitiba;PR;485;2024-03-22
+62;Sabrina Dias;53;Joinville;SC;724;2021-11-03
+63;Vanessa Almeida;25;Belo Horizonte;MG;560;2025-02-16
+64;Helena Gouveia;18;Maringa;PR;473;2021-09-12
+65;Elaine Igreja;49;Belo Horizonte;MG;711;2022-01-09
+66;Vanessa Machado;47;Florianopolis;SC;574;2020-08-07
+67;Diego Dias;41;Porto Alegre;RS;784;2020-06-11
+68;Otavio Queiroz;65;Porto Alegre;RS;676;2020-06-29
+69;Joao Cardoso;34;Recife;PE;775;2024-04-20
+70;Diego Lacerda;21;Rio de Janeiro;RJ;765;2022-12-13
+71;Patricia Ferraz;18;Recife;PE;877;2020-02-17
+72;Ana Gouveia;39;Caxias do Sul;RS;576;2021-11-11
+73;Elaine Salgado;49;Belo Horizonte;MG;666;2025-08-13
+74;Eduardo Ribas;28;Pelotas;RS;802;2022-07-30
+75;Wagner Cardoso;33;Recife;PE;736;2022-12-28
+76;Rodrigo Machado;21;Curitiba;PR;777;2024-01-17
+77;Leandro Henriques;24;Porto Alegre;RS;615;2020-04-12
+78;Karina Henriques;32;Goiania;GO;689;2023-09-24
+79;Flavia Henriques;30;Fortaleza;CE;654;2021-06-04
+80;Debora Henriques;53;Campinas;SP;560;2023-09-05
+81;Rodrigo Queiroz;35;Curitiba;PR;625;2021-12-06
+82;Debora Almeida;38;Maringa;PR;551;2025-08-09
+83;Flavia Igreja;46;Fortaleza;CE;568;2020-08-15
+84;Isabela Gouveia;35;Goiania;GO;648;2022-01-21
+85;Otavio Machado;36;Campinas;SP;592;2021-10-30
+86;Camila Henriques;20;Salvador;BA;827;2024-10-09
+87;Heitor Queiroz;31;Porto Alegre;RS;681;2023-09-18
+88;Karina Gouveia;53;Salvador;BA;300;2020-07-04
+89;Vanessa Vieira;46;Sao Paulo;SP;520;2025-11-24
+90;Patricia Machado;30;Sao Paulo;SP;715;2024-12-19
+91;Gustavo Dias;35;Fortaleza;CE;624;2021-07-24
+92;Flavia Gouveia;46;Campinas;SP;614;2020-07-22
+93;Igor Ferraz;32;Fortaleza;CE;540;2021-01-19
+94;Flavia Lacerda;63;Rio de Janeiro;RJ;629;2024-12-11
+95;Flavia Nogueira;18;Rio de Janeiro;RJ;691;2020-09-21
+96;Marcia Cardoso;38;Niteroi;RJ;597;2024-02-20
+97;Fabio Esteves;31;Salvador;BA;684;2025-08-11
+98;Elaine Teixeira;46;Campinas;SP;584;2020-09-12
+99;Flavia Esteves;43;Salvador;BA;570;2020-08-07
+100;Yasmin Machado;27;Florianopolis;SC;564;2024-03-03
+101;Sabrina Salgado;18;Pelotas;RS;749;2024-06-13
+102;Ana Almeida;18;Curitiba;PR;616;2024-10-07
+103;Rodrigo Esteves;18;Sao Paulo;SP;625;2021-01-20
+104;Helena Gouveia;54;Porto Alegre;RS;795;2023-07-21
+105;Ana Igreja;43;Caxias do Sul;RS;646;2023-07-14
+106;Joao Ribas;47;Pelotas;RS;704;2023-03-22
+107;Eduardo Teixeira;60;Sao Paulo;SP;650;2022-04-06
+108;Isabela Salgado;25;Fortaleza;CE;754;2021-03-21
+109;Gustavo Esteves;18;Sao Paulo;SP;678;2025-03-27
+110;Julia Machado;18;Sao Paulo;SP;624;2020-10-12
+111;Yasmin Teixeira;30;Sorocaba;SP;518;2020-02-15
+112;Nelson Ribas;37;Sorocaba;SP;496;2024-06-14
+113;Sabrina Esteves;28;Uberlandia;MG;683;2020-01-18
+114;Rodrigo Almeida;35;Caxias do Sul;RS;693;2020-12-25
+115;Eduardo Ferraz;45;Belo Horizonte;MG;644;2025-11-15
+116;Eduardo Esteves;22;Recife;PE;487;2023-12-27
+117;Elaine Queiroz;34;Blumenau;SC;675;2024-07-27
+118;Sabrina Barros;22;Sorocaba;SP;587;2022-04-06
+119;Yasmin Ribas;42;Fortaleza;CE;491;2020-07-04
+120;Flavia Dias;33;Uberlandia;MG;502;2025-04-13
+121;Heitor Gouveia;21;Pelotas;RS;578;2022-10-24
+122;Bruno Dias;42;Rio de Janeiro;RJ;613;2020-03-23
+123;Otavio Salgado;57;Campinas;SP;568;2025-08-09
+124;Eduardo Cardoso;18;Sao Paulo;SP;698;2020-12-12
+125;Karina Vieira;37;Campinas;SP;657;2020-04-01
+126;Vanessa Ribas;29;Sao Paulo;SP;624;2023-09-07
+127;Cesar Igreja;45;Rio de Janeiro;RJ;760;2020-11-05
+128;Rodrigo Salgado;36;Porto Alegre;RS;671;2020-07-22
+129;Rodrigo Henriques;38;Sao Paulo;SP;707;2020-01-19
+130;Igor Igreja;18;Belo Horizonte;MG;621;2023-08-25
+131;Gustavo Pinheiro;39;Salvador;BA;845;2024-05-19
+132;Nelson Dias;40;Goiania;GO;549;2021-07-08
+133;Otavio Lacerda;37;Belo Horizonte;MG;519;2025-02-07
+134;Yasmin Henriques;40;Sao Paulo;SP;640;2021-02-11
+135;Camila Gouveia;49;Curitiba;PR;644;2022-07-10
+136;Flavia Dias;35;Sao Paulo;SP;389;2024-03-09
+137;Cesar Machado;37;Pelotas;RS;630;2024-04-25
+138;Isabela Esteves;46;Recife;PE;664;2020-09-03
+139;Heitor Dias;27;Belo Horizonte;MG;618;2021-06-14
+140;Igor Queiroz;65;Uberlandia;MG;727;2024-02-04
+141;Yasmin Henriques;37;Belo Horizonte;MG;736;2024-02-09
+142;Cesar Oliveira;29;Campinas;SP;564;2020-02-20
+143;Marcia Lacerda;54;Porto Alegre;RS;572;2021-03-12
+144;Gabriela Machado;43;Uberlandia;MG;732;2022-05-07
+145;Camila Machado;28;Fortaleza;CE;481;2025-09-13
+146;Karina Salgado;25;Porto Alegre;RS;630;2020-10-10
+147;Otavio Almeida;43;Blumenau;SC;346;2021-08-10
+148;Karina Ribas;28;Uberlandia;MG;622;2022-08-09
+149;Rodrigo Cardoso;24;Campinas;SP;611;2024-08-26
+150;Julia Henriques;29;Maringa;PR;546;2024-09-28
+151;Camila Igreja;29;Fortaleza;CE;750;2022-11-14
+152;Bruno Ferraz;24;Rio de Janeiro;RJ;616;2022-11-20
+153;Eduardo Esteves;44;Maringa;PR;688;2021-03-08
+154;Helena Igreja;43;Porto Alegre;RS;688;2021-05-14
+155;Elaine Salgado;64;Blumenau;SC;558;2020-02-23
+156;Thiago Queiroz;42;Recife;PE;730;2022-04-02
+157;Camila Igreja;50;Joinville;SC;342;2025-04-10
+158;Flavia Ferraz;51;Goiania;GO;549;2021-02-23
+159;Igor Cardoso;36;Niteroi;RJ;570;2022-11-26
+160;Ana Cardoso;36;Campinas;SP;481;2022-12-30
+161;Camila Vieira;34;Curitiba;PR;684;2023-06-05
+162;Camila Igreja;18;Porto Alegre;RS;661;2024-07-21
+163;Otavio Almeida;46;Londrina;PR;768;2022-02-11
+164;Sabrina Oliveira;54;Fortaleza;CE;674;2022-11-30
+165;Vanessa Esteves;39;Belo Horizonte;MG;623;2025-06-08
+166;Rodrigo Henriques;39;Curitiba;PR;701;2024-09-09
+167;Fabio Igreja;23;Salvador;BA;740;2025-05-09
+168;Fabio Gouveia;27;Uberlandia;MG;700;2022-06-03
+169;Wagner Junqueira;50;Recife;PE;749;2023-08-11
+170;Joao Pinheiro;25;Porto Alegre;RS;621;2020-04-23
+171;Yasmin Ferraz;31;Rio de Janeiro;RJ;634;2022-11-19
+172;Leandro Almeida;28;Salvador;BA;514;2023-02-10
+173;Bruno Almeida;20;Sao Paulo;SP;729;2025-09-17
+174;Debora Ribas;38;Florianopolis;SC;667;2023-10-17
+175;Rodrigo Queiroz;56;Blumenau;SC;443;2023-03-01
+176;Julia Pinheiro;42;Florianopolis;SC;724;2024-09-22
+177;Yasmin Oliveira;22;Sorocaba;SP;682;2020-05-14
+178;Sabrina Nogueira;39;Maringa;PR;662;2020-03-27
+179;Joao Gouveia;27;Sao Paulo;SP;454;2023-05-06
+180;Karina Gouveia;24;Rio de Janeiro;RJ;392;2024-05-08
+181;Marcia Machado;25;Sao Paulo;SP;507;2025-04-23
+182;Gustavo Esteves;42;Sao Paulo;SP;538;2025-10-04
+183;Camila Igreja;29;Niteroi;RJ;563;2021-02-01
+184;Fabio Barros;35;Belo Horizonte;MG;653;2024-12-20
+185;Yasmin Nogueira;53;Rio de Janeiro;RJ;596;2020-03-30
+186;Yasmin Junqueira;40;Fortaleza;CE;702;2023-03-15
+187;Cesar Junqueira;26;Curitiba;PR;511;2025-05-30
+188;Otavio Ferraz;44;Salvador;BA;950;2024-02-25
+189;Isabela Pinheiro;25;Sao Paulo;SP;614;2025-11-17
+190;Isabela Machado;36;Belo Horizonte;MG;627;2022-03-25
+191;Sabrina Lacerda;18;Salvador;BA;687;2023-03-06
+192;Bruno Junqueira;33;Fortaleza;CE;558;2023-06-23
+193;Leandro Ferraz;47;Londrina;PR;551;2025-11-27
+194;Karina Nogueira;62;Joinville;SC;697;2024-12-23
+195;Patricia Igreja;44;Belo Horizonte;MG;436;2020-04-12
+196;Wagner Gouveia;34;Goiania;GO;526;2023-02-19
+197;Rodrigo Almeida;50;Joinville;SC;576;2024-11-24
+198;Isabela Cardoso;53;Belo Horizonte;MG;337;2024-04-21
+199;Marcia Teixeira;48;Rio de Janeiro;RJ;722;2025-06-14
+200;Marcia Almeida;40;Caxias do Sul;RS;665;2022-07-23
+201;Joao Henriques;38;Porto Alegre;RS;792;2024-12-20
+202;Thiago Ribas;44;Belo Horizonte;MG;578;2024-03-06
+203;Yasmin Vieira;39;Curitiba;PR;571;2021-07-20
+204;Eduardo Lacerda;53;Uberlandia;MG;436;2020-05-17
+205;Elaine Junqueira;53;Niteroi;RJ;683;2024-04-18
+206;Bruno Ribas;50;Rio de Janeiro;RJ;444;2021-02-07
+207;Debora Ribas;37;Recife;PE;768;2024-05-10
+208;Julia Ribas;25;Porto Alegre;RS;574;2020-04-06
+209;Thiago Almeida;44;Sao Paulo;SP;687;2023-05-05
+210;Camila Almeida;28;Campinas;SP;696;2025-06-13
+211;Elaine Machado;18;Joinville;SC;454;2024-09-28
+212;Marcia Pinheiro;56;Belo Horizonte;MG;768;2025-05-08
+213;Wagner Almeida;34;Salvador;BA;832;2023-03-06
+214;Patricia Igreja;49;Sao Paulo;SP;670;2025-11-18
+215;Otavio Cardoso;26;Londrina;PR;718;2020-04-11
+216;Igor Salgado;35;Curitiba;PR;718;2024-11-20
+217;Yasmin Ribas;45;Rio de Janeiro;RJ;668;2025-03-06
+218;Debora Queiroz;19;Curitiba;PR;621;2023-02-03
+219;Flavia Cardoso;47;Fortaleza;CE;497;2022-12-10
+220;Heitor Gouveia;47;Maringa;PR;766;2023-05-01
+221;Debora Pinheiro;22;Pelotas;RS;808;2020-05-18
+222;Helena Nogueira;35;Salvador;BA;795;2025-01-21
+223;Patricia Junqueira;45;Blumenau;SC;534;2025-05-24
+224;Vanessa Gouveia;49;Sao Paulo;SP;619;2025-01-18
+225;Vanessa Esteves;40;Porto Alegre;RS;747;2022-03-14
+226;Isabela Junqueira;52;Blumenau;SC;677;2024-06-03
+227;Ana Queiroz;42;Sao Paulo;SP;648;2025-03-28
+228;Patricia Igreja;65;Curitiba;PR;640;2024-10-20
+229;Cesar Gouveia;57;Blumenau;SC;661;2020-06-05
+230;Joao Ribas;32;Salvador;BA;581;2022-09-19
+231;Otavio Pinheiro;61;Caxias do Sul;RS;402;2020-09-08
+232;Eduardo Dias;43;Rio de Janeiro;RJ;450;2023-09-07
+233;Joao Cardoso;34;Belo Horizonte;MG;509;2020-08-12
+234;Ana Junqueira;53;Florianopolis;SC;434;2020-10-09
+235;Camila Ribas;41;Porto Alegre;RS;658;2020-11-17
+236;Isabela Nogueira;25;Campinas;SP;644;2023-07-26
+237;Julia Gouveia;38;Joinville;SC;701;2025-01-30
+238;Thiago Cardoso;49;Recife;PE;487;2024-04-30
+239;Debora Ribas;30;Salvador;BA;319;2022-12-25
+240;Leandro Esteves;18;Niteroi;RJ;603;2020-03-19
+241;Isabela Dias;30;Porto Alegre;RS;601;2021-10-28
+242;Heitor Queiroz;29;Sao Paulo;SP;682;2020-06-19
+243;Marcia Almeida;41;Florianopolis;SC;478;2024-02-19
+244;Ana Queiroz;24;Belo Horizonte;MG;499;2020-11-11
+245;Marcia Junqueira;50;Niteroi;RJ;711;2024-05-04
+246;Nelson Machado;53;Sorocaba;SP;623;2021-09-13
+247;Karina Dias;30;Belo Horizonte;MG;554;2022-03-15
+248;Ana Lacerda;54;Rio de Janeiro;RJ;676;2022-02-15
+249;Gustavo Nogueira;32;Niteroi;RJ;504;2024-07-28
+250;Julia Gouveia;19;Fortaleza;CE;624;2025-10-14
+251;Igor Junqueira;18;Campinas;SP;595;2023-01-29
+252;Leandro Cardoso;25;Uberlandia;MG;548;2021-07-06
+253;Marcia Teixeira;33;Florianopolis;SC;795;2025-01-23
+254;Leandro Oliveira;18;Sao Paulo;SP;583;2022-10-31
+255;Helena Barros;47;Joinville;SC;567;2022-10-09
+256;Diego Barros;27;Florianopolis;SC;737;2022-09-19
+257;Wagner Esteves;47;Porto Alegre;RS;666;2023-02-14
+258;Isabela Oliveira;18;Rio de Janeiro;RJ;681;2020-03-10
+259;Karina Gouveia;18;Uberlandia;MG;582;2021-09-24
+260;Flavia Oliveira;20;Sao Paulo;SP;666;2025-08-05
+261;Flavia Nogueira;63;Florianopolis;SC;667;2023-08-21
+262;Debora Cardoso;48;Joinville;SC;628;2025-05-13
+263;Julia Oliveira;25;Londrina;PR;812;2020-11-11
+264;Vanessa Esteves;50;Sao Paulo;SP;553;2022-09-16
+265;Patricia Barros;30;Salvador;BA;719;2024-06-28
+266;Fabio Queiroz;43;Joinville;SC;726;2021-04-07
+267;Karina Junqueira;57;Porto Alegre;RS;644;2022-07-31
+268;Isabela Igreja;47;Goiania;GO;617;2021-05-13
+269;Wagner Henriques;40;Sorocaba;SP;620;2022-07-18
+270;Patricia Salgado;27;Goiania;GO;505;2021-06-30
+271;Diego Ferraz;40;Belo Horizonte;MG;751;2024-02-08
+272;Camila Gouveia;18;Salvador;BA;706;2020-04-21
+273;Igor Queiroz;29;Maringa;PR;478;2023-06-14
+274;Otavio Lacerda;45;Porto Alegre;RS;650;2020-11-14
+275;Nelson Esteves;31;Recife;PE;699;2023-10-05
+276;Heitor Cardoso;25;Niteroi;RJ;653;2023-12-17
+277;Karina Salgado;34;Campinas;SP;594;2024-11-23
+278;Karina Henriques;35;Belo Horizonte;MG;642;2021-10-15
+279;Isabela Teixeira;19;Belo Horizonte;MG;698;2023-08-27
+280;Igor Almeida;48;Florianopolis;SC;599;2021-04-16
+281;Marcia Oliveira;36;Rio de Janeiro;RJ;634;2020-01-16
+282;Gabriela Nogueira;53;Rio de Janeiro;RJ;718;2022-11-21
+283;Karina Barros;47;Florianopolis;SC;635;2020-05-01
+284;Isabela Teixeira;18;Sorocaba;SP;549;2021-11-17
+285;Elaine Ribas;33;Goiania;GO;612;2023-07-01
+286;Camila Igreja;37;Fortaleza;CE;438;2023-02-18
+287;Marcia Nogueira;26;Sorocaba;SP;493;2020-12-01
+288;Nelson Junqueira;21;Londrina;PR;807;2025-09-03
+289;Elaine Barros;49;Rio de Janeiro;RJ;528;2021-02-24
+290;Cesar Queiroz;19;Salvador;BA;653;2020-06-04
+291;Ana Cardoso;45;Florianopolis;SC;567;2021-07-12
+292;Julia Ribas;18;Belo Horizonte;MG;655;2020-09-01
+293;Otavio Henriques;46;Rio de Janeiro;RJ;864;2024-09-11
+294;Heitor Esteves;36;Rio de Janeiro;RJ;560;2024-03-19
+295;Rodrigo Dias;43;Campinas;SP;643;2020-10-15
+296;Camila Salgado;46;Sao Paulo;SP;614;2025-06-23
+297;Ana Esteves;63;Recife;PE;725;2023-04-24
+298;Thiago Barros;42;Belo Horizonte;MG;618;2022-07-06
+299;Elaine Igreja;20;Goiania;GO;521;2021-01-05
+300;Cesar Dias;38;Pelotas;RS;721;2024-10-20
+301;Camila Junqueira;37;Belo Horizonte;MG;579;2020-01-14
+302;Thiago Gouveia;35;Florianopolis;SC;615;2021-07-26
+303;Isabela Henriques;26;Niteroi;RJ;614;2025-11-27
+304;Ana Salgado;26;Uberlandia;MG;623;2022-07-15
+305;Otavio Igreja;30;Curitiba;PR;781;2022-05-16
+306;Wagner Henriques;53;Recife;PE;731;2020-08-03
+307;Rodrigo Henriques;46;Caxias do Sul;RS;824;2023-02-24
+308;Ana Oliveira;40;Porto Alegre;RS;791;2022-06-21
+309;Bruno Almeida;33;Rio de Janeiro;RJ;576;2023-09-28
+310;Patricia Oliveira;19;Rio de Janeiro;RJ;526;2025-01-03
+311;Isabela Henriques;22;Goiania;GO;935;2021-02-27
+312;Julia Machado;32;Curitiba;PR;482;2023-05-18
+313;Patricia Barros;47;Porto Alegre;RS;732;2022-02-16
+314;Cesar Oliveira;39;Blumenau;SC;747;2021-11-08
+315;Yasmin Nogueira;56;Rio de Janeiro;RJ;767;2023-09-12
+316;Ana Junqueira;19;Curitiba;PR;437;2020-04-04
+317;Camila Gouveia;23;Maringa;PR;615;2020-05-11
+318;Gabriela Junqueira;42;Sorocaba;SP;558;2023-09-29
+319;Heitor Pinheiro;53;Blumenau;SC;616;2023-06-08
+320;Isabela Junqueira;38;Maringa;PR;489;2024-09-11
+321;Vanessa Queiroz;43;Salvador;BA;670;2023-10-26
+322;Igor Henriques;48;Salvador;BA;631;2020-06-24
+323;Nelson Barros;58;Porto Alegre;RS;765;2024-04-11
+324;Julia Nogueira;35;Recife;PE;637;2025-04-23
+325;Gabriela Almeida;30;Uberlandia;MG;653;2024-04-29
+326;Nelson Barros;50;Rio de Janeiro;RJ;767;2025-03-30
+327;Fabio Nogueira;51;Sao Paulo;SP;731;2020-11-16
+328;Igor Lacerda;37;Porto Alegre;RS;715;2024-08-25
+329;Camila Ferraz;59;Niteroi;RJ;590;2022-03-24
+330;Gabriela Ferraz;37;Belo Horizonte;MG;647;2020-01-13
+331;Debora Pinheiro;56;Porto Alegre;RS;718;2025-07-24
+332;Joao Nogueira;44;Recife;PE;718;2021-09-22
+333;Karina Pinheiro;47;Sorocaba;SP;776;2024-01-08
+334;Diego Almeida;33;Uberlandia;MG;706;2025-01-15
+335;Isabela Cardoso;45;Maringa;PR;725;2021-12-23
+336;Nelson Dias;43;Niteroi;RJ;628;2023-08-05
+337;Marcia Machado;37;Salvador;BA;516;2022-06-16
+338;Gustavo Oliveira;38;Londrina;PR;775;2024-12-07
+339;Bruno Queiroz;50;Sao Paulo;SP;766;2023-09-22
+340;Leandro Salgado;43;Campinas;SP;514;2020-11-29
+341;Gabriela Lacerda;54;Sao Paulo;SP;824;2021-11-01
+342;Debora Queiroz;29;Porto Alegre;RS;668;2025-07-30
+343;Wagner Oliveira;52;Campinas;SP;835;2023-02-20
+344;Flavia Nogueira;36;Goiania;GO;609;2025-06-18
+345;Marcia Barros;44;Joinville;SC;596;2020-09-18
+346;Camila Barros;29;Rio de Janeiro;RJ;556;2023-01-14
+347;Gabriela Cardoso;51;Londrina;PR;659;2022-02-12
+348;Leandro Igreja;41;Belo Horizonte;MG;584;2022-02-28
+349;Vanessa Barros;29;Rio de Janeiro;RJ;560;2022-12-24
+350;Debora Lacerda;27;Goiania;GO;683;2022-10-30
+351;Joao Almeida;29;Florianopolis;SC;637;2025-03-09
+352;Ana Henriques;50;Porto Alegre;RS;663;2024-09-18
+353;Patricia Pinheiro;54;Uberlandia;MG;434;2021-08-01
+354;Flavia Igreja;26;Sao Paulo;SP;780;2021-02-04
+355;Gustavo Queiroz;42;Fortaleza;CE;603;2024-06-06
+356;Julia Queiroz;59;Curitiba;PR;716;2023-11-13
+357;Ana Junqueira;43;Belo Horizonte;MG;747;2024-03-22
+358;Vanessa Henriques;24;Salvador;BA;680;2022-03-30
+359;Helena Lacerda;66;Florianopolis;SC;720;2020-10-01
+360;Leandro Vieira;22;Rio de Janeiro;RJ;721;2025-01-12
+361;Rodrigo Gouveia;32;Recife;PE;503;2021-07-11
+362;Eduardo Ferraz;38;Curitiba;PR;631;2023-02-23
+363;Nelson Cardoso;20;Florianopolis;SC;552;2025-07-16
+364;Patricia Salgado;18;Porto Alegre;RS;619;2022-04-07
+365;Fabio Oliveira;21;Goiania;GO;717;2024-09-27
+366;Camila Igreja;41;Blumenau;SC;588;2024-12-22
+367;Gabriela Dias;49;Curitiba;PR;518;2021-03-13
+368;Patricia Pinheiro;18;Florianopolis;SC;752;2023-12-23
+369;Heitor Esteves;35;Porto Alegre;RS;727;2021-03-30
+370;Otavio Vieira;47;Blumenau;SC;698;2023-04-14
+371;Debora Salgado;52;Sao Paulo;SP;382;2024-07-23
+372;Eduardo Junqueira;34;Rio de Janeiro;RJ;785;2022-08-16
+373;Isabela Teixeira;28;Campinas;SP;654;2022-12-01
+374;Leandro Igreja;39;Sao Paulo;SP;777;2022-12-31
+375;Gabriela Pinheiro;18;Sao Paulo;SP;542;2023-02-22
+376;Fabio Henriques;18;Porto Alegre;RS;551;2023-04-12
+377;Elaine Junqueira;30;Blumenau;SC;644;2023-10-22
+378;Karina Cardoso;49;Sao Paulo;SP;632;2021-06-23
+379;Isabela Henriques;49;Salvador;BA;664;2020-03-24
+380;Rodrigo Henriques;47;Belo Horizonte;MG;812;2024-10-16
+381;Wagner Pinheiro;34;Curitiba;PR;620;2025-07-03
+382;Diego Almeida;40;Belo Horizonte;MG;562;2020-08-05
+383;Igor Henriques;56;Londrina;PR;392;2020-11-21
+384;Julia Machado;35;Campinas;SP;489;2025-06-19
+385;Igor Junqueira;46;Curitiba;PR;656;2023-04-23
+386;Diego Barros;29;Salvador;BA;851;2023-10-17
+387;Vanessa Teixeira;50;Recife;PE;710;2023-09-28
+388;Julia Cardoso;32;Campinas;SP;687;2021-09-29
+389;Rodrigo Ferraz;46;Fortaleza;CE;728;2020-11-18
+390;Vanessa Igreja;36;Rio de Janeiro;RJ;647;2025-11-06
+391;Diego Vieira;48;Curitiba;PR;509;2021-12-30
+392;Gabriela Barros;53;Maringa;PR;493;2021-10-13
+393;Karina Esteves;27;Recife;PE;602;2025-06-04
+394;Gabriela Igreja;45;Campinas;SP;787;2025-06-28
+395;Vanessa Gouveia;31;Belo Horizonte;MG;677;2025-10-16
+396;Gustavo Lacerda;34;Goiania;GO;702;2021-05-01
+397;Yasmin Machado;51;Uberlandia;MG;783;2023-11-04
+398;Vanessa Junqueira;37;Salvador;BA;548;2025-01-16
+399;Gabriela Barros;49;Belo Horizonte;MG;543;2020-05-11
+400;Sabrina Queiroz;27;Rio de Janeiro;RJ;700;2025-03-17
+401;Nelson Dias;36;Goiania;GO;666;2021-06-26
+402;Yasmin Salgado;36;Fortaleza;CE;683;2024-03-08
+403;Wagner Salgado;35;Sao Paulo;SP;671;2024-11-23
+404;Wagner Ferraz;18;Sao Paulo;SP;759;2021-06-16
+405;Cesar Igreja;29;Belo Horizonte;MG;458;2021-04-28
+406;Joao Junqueira;48;Salvador;BA;610;2021-03-26
+407;Bruno Junqueira;41;Londrina;PR;569;2021-11-29
+408;Nelson Oliveira;30;Campinas;SP;910;2025-09-18
+409;Helena Machado;30;Porto Alegre;RS;517;2023-09-16
+410;Marcia Nogueira;22;Belo Horizonte;MG;856;2023-08-20
+411;Ana Oliveira;62;Goiania;GO;699;2024-02-29
+412;Nelson Dias;66;Belo Horizonte;MG;839;2024-11-26
+413;Marcia Teixeira;18;Blumenau;SC;781;2021-10-30
+414;Otavio Ferraz;18;Uberlandia;MG;675;2024-06-17
+415;Ana Barros;40;Niteroi;RJ;675;2024-04-27
+416;Wagner Nogueira;41;Maringa;PR;499;2024-12-02
+417;Thiago Vieira;31;Campinas;SP;629;2021-10-05
+418;Debora Ribas;33;Maringa;PR;855;2023-12-29
+419;Elaine Machado;28;Rio de Janeiro;RJ;652;2022-09-28
+420;Fabio Ribas;52;Belo Horizonte;MG;678;2023-12-29
+421;Julia Cardoso;30;Salvador;BA;643;2024-09-12
+422;Marcia Queiroz;18;Niteroi;RJ;669;2023-09-15
+423;Joao Esteves;38;Campinas;SP;485;2025-06-06
+424;Julia Queiroz;39;Rio de Janeiro;RJ;637;2022-05-23
+425;Bruno Vieira;34;Porto Alegre;RS;501;2021-07-27
+426;Camila Vieira;40;Fortaleza;CE;702;2024-02-14
+427;Wagner Henriques;46;Porto Alegre;RS;722;2021-05-20
+428;Vanessa Gouveia;32;Salvador;BA;751;2020-08-12
+429;Fabio Teixeira;39;Florianopolis;SC;854;2023-06-22
+430;Bruno Nogueira;57;Rio de Janeiro;RJ;797;2020-02-10
+431;Fabio Nogueira;51;Blumenau;SC;671;2021-11-21
+432;Diego Esteves;40;Sao Paulo;SP;600;2023-02-24
+433;Debora Gouveia;33;Pelotas;RS;597;2025-06-16
+434;Igor Salgado;18;Recife;PE;582;2025-06-28
+435;Yasmin Lacerda;37;Porto Alegre;RS;706;2024-08-06
+436;Marcia Vieira;19;Recife;PE;833;2020-10-22
+437;Sabrina Junqueira;29;Curitiba;PR;607;2021-03-17
+438;Joao Teixeira;41;Belo Horizonte;MG;716;2023-02-15
+439;Nelson Nogueira;39;Rio de Janeiro;RJ;711;2021-10-18
+440;Otavio Ribas;32;Belo Horizonte;MG;562;2021-01-01
+441;Fabio Almeida;31;Sao Paulo;SP;736;2025-11-17
+442;Vanessa Queiroz;26;Belo Horizonte;MG;538;2020-09-13
+443;Heitor Pinheiro;33;Porto Alegre;RS;656;2020-10-11
+444;Gustavo Ferraz;45;Florianopolis;SC;673;2020-08-11
+445;Marcia Dias;51;Uberlandia;MG;683;2025-03-02
+446;Elaine Machado;47;Rio de Janeiro;RJ;690;2021-02-02
+447;Leandro Cardoso;18;Goiania;GO;501;2020-12-17
+448;Rodrigo Ribas;29;Florianopolis;SC;495;2025-06-18
+449;Bruno Esteves;49;Joinville;SC;453;2024-12-30
+450;Julia Lacerda;60;Sao Paulo;SP;506;2020-03-07
+451;Camila Barros;39;Caxias do Sul;RS;829;2020-04-07
+452;Igor Nogueira;42;Sao Paulo;SP;837;2024-05-23
+453;Ana Cardoso;33;Belo Horizonte;MG;524;2024-09-09
+454;Gabriela Esteves;35;Maringa;PR;693;2020-05-27
+455;Joao Ferraz;39;Sao Paulo;SP;658;2023-06-10
+456;Camila Machado;46;Porto Alegre;RS;687;2023-02-02
+457;Fabio Lacerda;41;Caxias do Sul;RS;770;2022-11-01
+458;Igor Pinheiro;39;Sao Paulo;SP;613;2024-04-22
+459;Isabela Ribas;21;Curitiba;PR;672;2020-07-14
+460;Gabriela Teixeira;41;Maringa;PR;567;2022-12-21
+461;Vanessa Ribas;46;Porto Alegre;RS;469;2023-04-04
+462;Karina Machado;18;Niteroi;RJ;564;2025-07-04
+463;Gabriela Ferraz;19;Goiania;GO;572;2021-05-24
+464;Fabio Igreja;43;Belo Horizonte;MG;532;2022-03-30
+465;Igor Nogueira;53;Rio de Janeiro;RJ;563;2024-01-10
+466;Flavia Igreja;18;Maringa;PR;620;2024-08-17
+467;Eduardo Ribas;26;Belo Horizonte;MG;521;2025-05-17
+468;Wagner Machado;44;Rio de Janeiro;RJ;697;2020-11-02
+469;Sabrina Ribas;50;Curitiba;PR;816;2024-09-29
+470;Isabela Salgado;60;Porto Alegre;RS;639;2021-07-01
+471;Debora Machado;31;Sorocaba;SP;485;2022-12-13
+472;Marcia Machado;26;Blumenau;SC;730;2024-04-12
+473;Leandro Lacerda;34;Goiania;GO;516;2025-01-02
+474;Otavio Henriques;46;Florianopolis;SC;630;2023-12-09
+475;Vanessa Barros;38;Florianopolis;SC;472;2022-08-06
+476;Gustavo Ribas;41;Caxias do Sul;RS;567;2023-01-28
+477;Joao Teixeira;25;Porto Alegre;RS;731;2022-05-31
+478;Debora Almeida;40;Maringa;PR;751;2025-07-16
+479;Heitor Esteves;27;Curitiba;PR;630;2022-08-28
+480;Vanessa Oliveira;26;Joinville;SC;667;2021-03-27
+481;Rodrigo Machado;23;Caxias do Sul;RS;629;2025-05-20
+482;Elaine Queiroz;21;Maringa;PR;618;2023-05-16
+483;Vanessa Barros;30;Rio de Janeiro;RJ;423;2025-09-01
+484;Bruno Almeida;46;Recife;PE;759;2021-12-09
+485;Joao Dias;22;Belo Horizonte;MG;663;2020-01-20
+486;Leandro Salgado;53;Blumenau;SC;629;2023-05-28
+487;Nelson Teixeira;19;Londrina;PR;520;2022-07-17
+488;Thiago Esteves;43;Porto Alegre;RS;695;2023-08-18
+489;Leandro Vieira;44;Belo Horizonte;MG;681;2020-08-04
+490;Fabio Esteves;55;Sao Paulo;SP;535;2025-10-05
+491;Julia Henriques;60;Porto Alegre;RS;740;2024-03-30
+492;Otavio Dias;39;Belo Horizonte;MG;882;2025-03-16
+493;Wagner Esteves;49;Florianopolis;SC;555;2022-11-23
+494;Marcia Igreja;71;Curitiba;PR;466;2025-10-15
+495;Bruno Salgado;41;Londrina;PR;803;2021-12-28
+496;Vanessa Teixeira;43;Fortaleza;CE;735;2020-12-10
+497;Vanessa Ribas;38;Niteroi;RJ;871;2020-05-23
+498;Heitor Ferraz;27;Pelotas;RS;433;2025-11-30
+499;Bruno Barros;42;Campinas;SP;632;2025-08-20
+500;Marcia Ferraz;18;Caxias do Sul;RS;666;2023-04-03
+501;Fabio Barros;36;Belo Horizonte;MG;841;2024-09-28
+502;Ana Vieira;33;Porto Alegre;RS;766;2023-09-16
+503;Elaine Oliveira;18;Salvador;BA;481;2023-09-06
+504;Rodrigo Vieira;41;Florianopolis;SC;860;2020-03-26
+505;Wagner Oliveira;57;Recife;PE;668;2023-12-17
+506;Rodrigo Junqueira;45;Goiania;GO;457;2025-03-15
+507;Joao Barros;31;Fortaleza;CE;603;2020-07-23
+508;Cesar Salgado;60;Rio de Janeiro;RJ;761;2025-11-05
+509;Marcia Oliveira;51;Belo Horizonte;MG;873;2020-09-13
+510;Camila Pinheiro;28;Florianopolis;SC;674;2023-12-14
+511;Heitor Dias;42;Sao Paulo;SP;629;2022-12-27
+512;Heitor Barros;42;Londrina;PR;659;2024-07-15
+513;Karina Igreja;30;Fortaleza;CE;554;2025-04-30
+514;Isabela Salgado;29;Curitiba;PR;693;2021-01-10
+515;Yasmin Ribas;50;Salvador;BA;625;2022-12-11
+516;Joao Gouveia;38;Porto Alegre;RS;706;2024-12-17
+517;Igor Ribas;49;Fortaleza;CE;653;2025-09-30
+518;Fabio Igreja;34;Niteroi;RJ;375;2023-04-09
+519;Gustavo Gouveia;21;Porto Alegre;RS;588;2024-02-18
+520;Debora Lacerda;18;Rio de Janeiro;RJ;636;2023-10-07
+521;Igor Nogueira;44;Rio de Janeiro;RJ;671;2022-03-27
+522;Vanessa Henriques;22;Blumenau;SC;628;2021-08-30
+523;Julia Salgado;41;Maringa;PR;742;2020-08-26
+524;Patricia Ribas;57;Salvador;BA;649;2025-11-05
+525;Helena Almeida;62;Londrina;PR;625;2021-01-06
+526;Debora Henriques;40;Joinville;SC;882;2022-06-20
+527;Flavia Gouveia;48;Blumenau;SC;538;2021-07-12
+528;Vanessa Teixeira;23;Rio de Janeiro;RJ;483;2025-01-17
+529;Thiago Ferraz;44;Curitiba;PR;554;2024-04-18
+530;Bruno Almeida;40;Sao Paulo;SP;950;2024-08-30
+531;Diego Vieira;44;Curitiba;PR;420;2024-02-08
+532;Leandro Esteves;28;Florianopolis;SC;457;2025-08-06
+533;Ana Barros;18;Curitiba;PR;677;2024-05-14
+534;Cesar Barros;33;Uberlandia;MG;560;2025-02-27
+535;Debora Barros;37;Curitiba;PR;806;2025-03-07
+536;Helena Teixeira;47;Curitiba;PR;673;2021-11-04
+537;Gabriela Salgado;27;Fortaleza;CE;669;2025-03-06
+538;Igor Nogueira;58;Caxias do Sul;RS;504;2024-09-19
+539;Heitor Gouveia;33;Blumenau;SC;720;2023-08-22
+540;Diego Barros;24;Porto Alegre;RS;595;2025-07-13
+541;Helena Cardoso;33;Salvador;BA;721;2022-09-11
+542;Patricia Dias;38;Recife;PE;593;2024-06-06
+543;Diego Gouveia;31;Niteroi;RJ;600;2022-08-13
+544;Karina Lacerda;39;Florianopolis;SC;653;2021-03-02
+545;Isabela Almeida;34;Belo Horizonte;MG;636;2021-12-25
+546;Isabela Junqueira;36;Campinas;SP;556;2025-05-17
+547;Cesar Machado;41;Goiania;GO;589;2022-04-27
+548;Eduardo Vieira;42;Sao Paulo;SP;383;2020-04-08
+549;Patricia Junqueira;36;Caxias do Sul;RS;690;2025-07-28
+550;Flavia Oliveira;39;Sao Paulo;SP;709;2025-07-27
+551;Nelson Ribas;39;Belo Horizonte;MG;612;2024-10-25
+552;Leandro Queiroz;48;Uberlandia;MG;745;2025-05-18
+553;Sabrina Teixeira;18;Niteroi;RJ;833;2023-06-28
+554;Cesar Cardoso;33;Niteroi;RJ;574;2022-09-12
+555;Fabio Oliveira;41;Curitiba;PR;733;2025-11-26
+556;Rodrigo Gouveia;18;Pelotas;RS;559;2022-09-07
+557;Eduardo Barros;24;Maringa;PR;690;2025-11-14
+558;Leandro Queiroz;38;Campinas;SP;679;2024-11-05
+559;Patricia Ferraz;36;Curitiba;PR;642;2020-05-16
+560;Thiago Machado;39;Niteroi;RJ;615;2020-02-21
+561;Isabela Teixeira;24;Fortaleza;CE;761;2024-02-20
+562;Joao Gouveia;18;Sao Paulo;SP;587;2023-04-28
+563;Patricia Ferraz;45;Florianopolis;SC;451;2024-09-07
+564;Wagner Cardoso;45;Rio de Janeiro;RJ;682;2020-06-02
+565;Flavia Salgado;33;Campinas;SP;647;2024-09-29
+566;Wagner Lacerda;58;Recife;PE;681;2021-12-06
+567;Diego Nogueira;29;Londrina;PR;674;2021-06-29
+568;Igor Cardoso;29;Maringa;PR;632;2021-03-08
+569;Igor Almeida;27;Salvador;BA;390;2021-09-30
+570;Gabriela Junqueira;40;Belo Horizonte;MG;472;2022-12-19
+571;Nelson Salgado;26;Sao Paulo;SP;625;2020-04-19
+572;Fabio Nogueira;33;Sao Paulo;SP;571;2023-04-20
+573;Otavio Esteves;43;Fortaleza;CE;671;2025-07-16
+574;Leandro Teixeira;29;Goiania;GO;600;2022-04-03
+575;Rodrigo Esteves;62;Recife;PE;662;2020-11-13
+576;Yasmin Salgado;49;Porto Alegre;RS;459;2022-04-17
+577;Fabio Pinheiro;28;Rio de Janeiro;RJ;560;2020-12-30
+578;Cesar Igreja;56;Porto Alegre;RS;660;2023-04-30
+579;Elaine Lacerda;42;Porto Alegre;RS;496;2020-09-26
+580;Wagner Henriques;30;Porto Alegre;RS;801;2020-03-23
+581;Gabriela Igreja;29;Rio de Janeiro;RJ;715;2022-07-16
+582;Eduardo Vieira;28;Belo Horizonte;MG;627;2024-03-08
+583;Debora Esteves;27;Sao Paulo;SP;675;2023-02-21
+584;Debora Lacerda;59;Joinville;SC;616;2020-01-24
+585;Leandro Ferraz;40;Curitiba;PR;652;2023-04-09
+586;Karina Gouveia;27;Sao Paulo;SP;794;2023-01-07
+587;Debora Dias;34;Campinas;SP;454;2024-01-27
+588;Yasmin Dias;54;Recife;PE;594;2023-09-23
+589;Marcia Esteves;42;Belo Horizonte;MG;585;2024-04-03
+590;Flavia Junqueira;44;Rio de Janeiro;RJ;519;2022-08-01
+591;Nelson Igreja;35;Niteroi;RJ;717;2023-09-20
+592;Diego Dias;41;Curitiba;PR;529;2022-10-08
+593;Gabriela Nogueira;62;Sao Paulo;SP;734;2020-09-18
+594;Bruno Almeida;35;Curitiba;PR;848;2021-06-11
+595;Helena Oliveira;44;Caxias do Sul;RS;627;2023-06-04
+596;Rodrigo Junqueira;44;Rio de Janeiro;RJ;771;2020-09-21
+597;Ana Esteves;24;Recife;PE;714;2023-01-13
+598;Vanessa Nogueira;46;Curitiba;PR;635;2025-11-09
+599;Debora Henriques;31;Sao Paulo;SP;684;2021-02-04
+600;Cesar Teixeira;69;Porto Alegre;RS;926;2021-03-12
+601;Helena Henriques;36;Florianopolis;SC;761;2023-05-10
+602;Yasmin Ferraz;26;Uberlandia;MG;666;2024-07-11
+603;Otavio Oliveira;35;Joinville;SC;594;2022-05-29
+604;Isabela Dias;18;Sao Paulo;SP;806;2021-03-19
+605;Heitor Nogueira;63;Porto Alegre;RS;540;2024-03-01
+606;Isabela Oliveira;24;Florianopolis;SC;556;2020-07-03
+607;Otavio Almeida;45;Fortaleza;CE;669;2021-04-30
+608;Rodrigo Ferraz;33;Salvador;BA;671;2022-03-29
+609;Eduardo Almeida;37;Goiania;GO;783;2021-07-23
+610;Gustavo Queiroz;64;Caxias do Sul;RS;433;2024-09-22
+611;Bruno Igreja;41;Campinas;SP;791;2023-06-23
+612;Fabio Gouveia;56;Curitiba;PR;600;2020-02-05
+613;Leandro Dias;30;Joinville;SC;671;2020-10-18
+614;Sabrina Gouveia;38;Fortaleza;CE;592;2020-08-01
+615;Rodrigo Almeida;34;Campinas;SP;624;2021-10-08
+616;Rodrigo Lacerda;28;Recife;PE;638;2021-04-26
+617;Debora Pinheiro;54;Maringa;PR;454;2023-07-25
+618;Yasmin Ferraz;27;Florianopolis;SC;642;2021-07-08
+619;Rodrigo Dias;34;Londrina;PR;540;2021-12-06
+620;Wagner Barros;67;Joinville;SC;511;2023-02-01
+621;Isabela Nogueira;53;Belo Horizonte;MG;684;2021-06-08
+622;Bruno Almeida;44;Sao Paulo;SP;653;2025-01-28
+623;Nelson Oliveira;29;Goiania;GO;744;2021-12-20
+624;Thiago Igreja;23;Joinville;SC;598;2024-09-10
+625;Heitor Junqueira;40;Florianopolis;SC;687;2021-06-05
+626;Rodrigo Henriques;28;Curitiba;PR;906;2021-07-10
+627;Otavio Gouveia;18;Sao Paulo;SP;759;2024-01-28
+628;Elaine Cardoso;47;Sao Paulo;SP;538;2023-10-02
+629;Patricia Salgado;42;Blumenau;SC;480;2023-05-21
+630;Gustavo Esteves;30;Londrina;PR;749;2021-12-16
+631;Yasmin Oliveira;35;Rio de Janeiro;RJ;671;2020-09-01
+632;Joao Salgado;42;Fortaleza;CE;721;2024-07-07
+633;Eduardo Queiroz;28;Belo Horizonte;MG;495;2021-12-09
+634;Flavia Henriques;53;Belo Horizonte;MG;775;2022-12-02
+635;Cesar Nogueira;21;Maringa;PR;652;2023-01-28
+636;Nelson Ferraz;24;Fortaleza;CE;698;2020-07-08
+637;Ana Igreja;34;Recife;PE;572;2021-11-26
+638;Heitor Junqueira;22;Rio de Janeiro;RJ;847;2022-04-29
+639;Patricia Queiroz;24;Goiania;GO;614;2021-02-10
+640;Vanessa Cardoso;42;Porto Alegre;RS;715;2021-11-08
+641;Elaine Junqueira;27;Curitiba;PR;651;2021-08-07
+642;Bruno Cardoso;36;Joinville;SC;717;2022-04-12
+643;Flavia Esteves;39;Uberlandia;MG;811;2022-01-18
+644;Wagner Teixeira;36;Sao Paulo;SP;544;2025-10-01
+645;Yasmin Almeida;27;Recife;PE;588;2023-07-26
+646;Camila Junqueira;43;Porto Alegre;RS;826;2023-02-11
+647;Vanessa Dias;23;Curitiba;PR;845;2024-04-26
+648;Helena Henriques;56;Goiania;GO;773;2023-11-02
+649;Eduardo Pinheiro;35;Curitiba;PR;639;2022-01-12
+650;Flavia Esteves;20;Curitiba;PR;630;2023-07-31
+651;Igor Nogueira;46;Salvador;BA;672;2024-01-14
+652;Vanessa Vieira;36;Curitiba;PR;621;2024-11-26
+653;Yasmin Salgado;46;Joinville;SC;636;2022-08-03
+654;Gabriela Queiroz;37;Campinas;SP;843;2023-07-13
+655;Rodrigo Cardoso;31;Caxias do Sul;RS;748;2020-12-31
+656;Yasmin Dias;30;Maringa;PR;696;2024-08-03
+657;Isabela Oliveira;18;Porto Alegre;RS;489;2023-04-17
+658;Gustavo Esteves;44;Sao Paulo;SP;612;2020-08-11
+659;Patricia Salgado;50;Salvador;BA;575;2025-04-06
+660;Patricia Pinheiro;36;Salvador;BA;536;2024-04-19
+661;Cesar Queiroz;28;Sao Paulo;SP;725;2023-02-26
+662;Patricia Ferraz;47;Curitiba;PR;732;2025-11-04
+663;Fabio Lacerda;60;Porto Alegre;RS;831;2020-09-02
+664;Cesar Teixeira;18;Florianopolis;SC;609;2020-05-03
+665;Yasmin Junqueira;43;Campinas;SP;458;2020-09-11
+666;Leandro Oliveira;18;Sao Paulo;SP;686;2021-03-22
+667;Yasmin Cardoso;35;Belo Horizonte;MG;689;2023-11-23
+668;Wagner Machado;29;Sao Paulo;SP;774;2025-08-07
+669;Ana Vieira;43;Rio de Janeiro;RJ;735;2025-05-28
+670;Yasmin Lacerda;46;Florianopolis;SC;845;2024-11-12
+671;Rodrigo Queiroz;20;Uberlandia;MG;796;2020-06-25
+672;Eduardo Esteves;43;Maringa;PR;542;2025-07-16
+673;Gabriela Oliveira;34;Curitiba;PR;700;2024-06-30
+674;Karina Dias;30;Sao Paulo;SP;762;2021-10-24
+675;Karina Queiroz;33;Sao Paulo;SP;603;2020-01-10
+676;Sabrina Gouveia;38;Porto Alegre;RS;444;2022-09-25
+677;Nelson Lacerda;32;Campinas;SP;643;2021-03-07
+678;Isabela Salgado;48;Rio de Janeiro;RJ;673;2025-04-30
+679;Gustavo Junqueira;35;Rio de Janeiro;RJ;576;2022-08-20
+680;Leandro Queiroz;36;Curitiba;PR;657;2021-05-23
+681;Karina Ribas;18;Florianopolis;SC;623;2022-11-15
+682;Helena Ribas;28;Niteroi;RJ;508;2022-01-19
+683;Gabriela Queiroz;47;Salvador;BA;581;2024-08-05
+684;Karina Gouveia;45;Londrina;PR;601;2022-05-13
+685;Cesar Junqueira;28;Caxias do Sul;RS;623;2024-06-27
+686;Thiago Cardoso;49;Salvador;BA;562;2025-06-20
+687;Marcia Salgado;23;Goiania;GO;511;2021-05-13
+688;Sabrina Teixeira;36;Belo Horizonte;MG;513;2025-05-12
+689;Marcia Junqueira;26;Caxias do Sul;RS;697;2024-09-13
+690;Ana Barros;43;Rio de Janeiro;RJ;584;2023-10-16
+691;Gustavo Queiroz;34;Curitiba;PR;788;2025-03-30
+692;Flavia Ribas;57;Fortaleza;CE;555;2021-09-13
+693;Vanessa Esteves;27;Recife;PE;660;2024-12-27
+694;Gabriela Barros;37;Blumenau;SC;641;2020-10-13
+695;Wagner Ferraz;35;Salvador;BA;753;2024-10-12
+696;Yasmin Ferraz;25;Niteroi;RJ;947;2025-07-03
+697;Nelson Dias;29;Fortaleza;CE;554;2025-10-08
+698;Leandro Esteves;18;Belo Horizonte;MG;805;2022-06-13
+699;Sabrina Igreja;48;Campinas;SP;759;2022-07-13
+700;Fabio Oliveira;22;Sao Paulo;SP;718;2025-07-14
+701;Karina Almeida;27;Porto Alegre;RS;520;2021-02-01
+702;Thiago Teixeira;35;Blumenau;SC;452;2025-04-22
+703;Patricia Teixeira;41;Recife;PE;725;2020-01-24
+704;Bruno Dias;18;Belo Horizonte;MG;574;2021-03-13
+705;Thiago Nogueira;33;Sorocaba;SP;505;2020-11-29
+706;Camila Almeida;40;Sao Paulo;SP;617;2021-07-30
+707;Vanessa Teixeira;61;Recife;PE;688;2024-03-05
+708;Patricia Oliveira;34;Maringa;PR;612;2024-10-10
+709;Camila Queiroz;37;Rio de Janeiro;RJ;705;2023-07-16
+710;Igor Esteves;42;Curitiba;PR;563;2025-09-29
+711;Nelson Almeida;34;Belo Horizonte;MG;759;2025-10-24
+712;Yasmin Dias;22;Sao Paulo;SP;697;2024-12-05
+713;Gabriela Dias;18;Sao Paulo;SP;611;2024-06-21
+714;Patricia Almeida;24;Sao Paulo;SP;616;2022-10-30
+715;Debora Teixeira;45;Goiania;GO;857;2023-03-15
+716;Otavio Ferraz;46;Florianopolis;SC;708;2025-05-10
+717;Leandro Esteves;18;Blumenau;SC;664;2024-12-21
+718;Joao Salgado;47;Sao Paulo;SP;446;2020-05-01
+719;Otavio Igreja;18;Goiania;GO;511;2025-04-30
+720;Cesar Barros;47;Goiania;GO;633;2025-10-16
+721;Bruno Almeida;40;Goiania;GO;656;2025-01-09
+722;Marcia Junqueira;45;Blumenau;SC;744;2022-06-01
+723;Debora Vieira;39;Sao Paulo;SP;485;2024-01-22
+724;Helena Queiroz;28;Belo Horizonte;MG;764;2025-04-01
+725;Karina Machado;23;Niteroi;RJ;582;2020-12-30
+726;Patricia Ferraz;40;Porto Alegre;RS;444;2024-04-17
+727;Flavia Dias;25;Curitiba;PR;702;2021-11-05
+728;Wagner Ferraz;36;Uberlandia;MG;907;2021-03-26
+729;Patricia Nogueira;50;Goiania;GO;500;2020-11-03
+730;Isabela Teixeira;49;Curitiba;PR;788;2022-03-05
+731;Joao Igreja;39;Sao Paulo;SP;608;2025-03-28
+732;Vanessa Vieira;21;Porto Alegre;RS;645;2022-03-12
+733;Helena Vieira;34;Goiania;GO;741;2025-09-29
+734;Gustavo Esteves;39;Belo Horizonte;MG;511;2022-06-16
+735;Thiago Oliveira;49;Rio de Janeiro;RJ;716;2023-02-27
+736;Marcia Nogueira;45;Campinas;SP;553;2021-09-13
+737;Vanessa Henriques;47;Sorocaba;SP;825;2020-11-09
+738;Joao Almeida;41;Niteroi;RJ;619;2022-04-25
+739;Isabela Igreja;21;Sao Paulo;SP;445;2021-03-07
+740;Fabio Teixeira;39;Belo Horizonte;MG;409;2025-06-11
+741;Joao Esteves;23;Rio de Janeiro;RJ;686;2024-04-08
+742;Isabela Salgado;52;Porto Alegre;RS;609;2020-04-24
+743;Leandro Salgado;41;Rio de Janeiro;RJ;784;2024-12-18
+744;Sabrina Salgado;30;Salvador;BA;675;2020-06-25
+745;Flavia Nogueira;53;Rio de Janeiro;RJ;636;2023-09-03
+746;Flavia Henriques;51;Curitiba;PR;729;2022-06-13
+747;Vanessa Barros;45;Fortaleza;CE;741;2021-06-26
+748;Otavio Gouveia;45;Niteroi;RJ;801;2023-01-23
+749;Thiago Almeida;32;Goiania;GO;921;2021-08-08
+750;Otavio Salgado;26;Curitiba;PR;648;2024-12-07
+751;Sabrina Machado;29;Sorocaba;SP;413;2025-03-20
+752;Heitor Nogueira;39;Goiania;GO;567;2020-01-28
+753;Igor Igreja;47;Campinas;SP;762;2020-01-25
+754;Karina Queiroz;46;Sao Paulo;SP;754;2020-03-29
+755;Thiago Gouveia;23;Curitiba;PR;646;2023-10-19
+756;Gabriela Gouveia;23;Campinas;SP;512;2024-11-19
+757;Fabio Junqueira;47;Florianopolis;SC;615;2021-11-06
+758;Thiago Teixeira;40;Blumenau;SC;792;2021-11-22
+759;Marcia Ribas;39;Londrina;PR;764;2024-03-31
+760;Heitor Barros;33;Sorocaba;SP;721;2020-05-21
+761;Leandro Dias;51;Rio de Janeiro;RJ;742;2021-10-01
+762;Wagner Pinheiro;43;Joinville;SC;717;2025-01-01
+763;Elaine Lacerda;34;Maringa;PR;950;2025-07-30
+764;Leandro Igreja;55;Sao Paulo;SP;611;2020-02-04
+765;Vanessa Almeida;31;Sorocaba;SP;385;2024-11-11
+766;Bruno Gouveia;44;Porto Alegre;RS;696;2020-06-19
+767;Thiago Teixeira;27;Recife;PE;525;2023-07-11
+768;Isabela Igreja;34;Salvador;BA;729;2021-02-21
+769;Diego Pinheiro;44;Sorocaba;SP;656;2024-06-13
+770;Isabela Barros;39;Pelotas;RS;748;2022-02-13
+771;Gabriela Ferraz;32;Niteroi;RJ;751;2021-09-04
+772;Camila Almeida;18;Sao Paulo;SP;688;2025-05-07
+773;Bruno Salgado;34;Londrina;PR;711;2021-10-09
+774;Helena Pinheiro;36;Niteroi;RJ;477;2020-06-16
+775;Helena Cardoso;51;Sao Paulo;SP;670;2021-06-18
+776;Julia Dias;46;Joinville;SC;608;2024-11-28
+777;Isabela Lacerda;28;Caxias do Sul;RS;498;2023-04-21
+778;Wagner Cardoso;31;Florianopolis;SC;559;2020-03-28
+779;Marcia Ferraz;60;Campinas;SP;685;2020-11-21
+780;Helena Ferraz;39;Rio de Janeiro;RJ;572;2021-10-04
+781;Heitor Henriques;37;Goiania;GO;505;2023-12-27
+782;Bruno Igreja;35;Porto Alegre;RS;790;2021-12-21
+783;Bruno Salgado;37;Campinas;SP;475;2025-08-10
+784;Gustavo Barros;35;Sao Paulo;SP;509;2023-01-10
+785;Flavia Ribas;37;Salvador;BA;715;2020-06-30
+786;Bruno Dias;28;Curitiba;PR;677;2024-04-17
+787;Karina Almeida;57;Uberlandia;MG;752;2023-09-09
+788;Yasmin Junqueira;68;Uberlandia;MG;601;2020-12-20
+789;Eduardo Dias;28;Sao Paulo;SP;698;2020-08-21
+790;Karina Machado;35;Sao Paulo;SP;422;2023-01-14
+791;Marcia Dias;50;Curitiba;PR;656;2021-09-18
+792;Patricia Nogueira;38;Rio de Janeiro;RJ;770;2024-01-11
+793;Otavio Henriques;39;Londrina;PR;621;2024-04-24
+794;Julia Almeida;38;Goiania;GO;747;2020-09-02
+795;Cesar Gouveia;53;Florianopolis;SC;833;2025-07-07
+796;Fabio Henriques;53;Belo Horizonte;MG;725;2025-01-17
+797;Julia Vieira;46;Rio de Janeiro;RJ;688;2021-09-25
+798;Igor Esteves;43;Sao Paulo;SP;890;2020-11-26
+799;Diego Nogueira;47;Rio de Janeiro;RJ;709;2025-09-03
+800;Wagner Cardoso;34;Belo Horizonte;MG;601;2020-11-05
+801;Karina Lacerda;47;Goiania;GO;664;2023-04-19
+802;Patricia Dias;40;Rio de Janeiro;RJ;744;2021-10-24
+803;Elaine Lacerda;36;Caxias do Sul;RS;662;2023-06-08
+804;Debora Barros;38;Fortaleza;CE;621;2023-11-24
+805;Cesar Pinheiro;45;Sao Paulo;SP;578;2024-04-18
+806;Otavio Esteves;31;Porto Alegre;RS;518;2022-12-06
+807;Nelson Oliveira;42;Uberlandia;MG;477;2023-02-25
+808;Elaine Almeida;41;Curitiba;PR;473;2022-11-17
+809;Thiago Junqueira;23;Rio de Janeiro;RJ;541;2022-03-02
+810;Flavia Ferraz;18;Sorocaba;SP;622;2022-12-30
+811;Patricia Dias;44;Blumenau;SC;758;2022-05-09
+812;Otavio Queiroz;44;Joinville;SC;672;2024-08-21
+813;Elaine Ribas;37;Uberlandia;MG;890;2025-04-13
+814;Wagner Gouveia;33;Pelotas;RS;592;2020-07-25
+815;Gustavo Junqueira;33;Caxias do Sul;RS;769;2024-07-31
+816;Isabela Gouveia;30;Caxias do Sul;RS;695;2021-10-31
+817;Nelson Igreja;18;Belo Horizonte;MG;723;2023-03-30
+818;Julia Henriques;25;Maringa;PR;682;2024-10-28
+819;Marcia Junqueira;33;Florianopolis;SC;802;2021-04-04
+820;Igor Ferraz;36;Salvador;BA;566;2025-04-10
+821;Gustavo Junqueira;38;Rio de Janeiro;RJ;616;2024-04-19
+822;Wagner Almeida;18;Caxias do Sul;RS;674;2020-12-17
+823;Flavia Ribas;49;Sao Paulo;SP;664;2022-02-04
+824;Rodrigo Esteves;25;Goiania;GO;465;2020-12-13
+825;Ana Ribas;28;Recife;PE;590;2022-09-15
+826;Fabio Machado;43;Caxias do Sul;RS;663;2021-01-14
+827;Bruno Oliveira;29;Sao Paulo;SP;770;2023-06-21
+828;Isabela Teixeira;44;Sao Paulo;SP;780;2023-11-22
+829;Elaine Ferraz;50;Sao Paulo;SP;560;2020-01-26
+830;Eduardo Henriques;30;Niteroi;RJ;494;2023-12-13
+831;Gabriela Vieira;36;Rio de Janeiro;RJ;604;2025-01-11
+832;Gustavo Cardoso;24;Florianopolis;SC;876;2020-05-12
+833;Eduardo Igreja;36;Rio de Janeiro;RJ;590;2023-12-14
+834;Gabriela Esteves;43;Belo Horizonte;MG;620;2023-10-06
+835;Thiago Junqueira;57;Porto Alegre;RS;619;2023-08-26
+836;Ana Cardoso;34;Curitiba;PR;739;2020-02-03
+837;Nelson Barros;37;Recife;PE;696;2020-02-08
+838;Flavia Machado;36;Sao Paulo;SP;629;2022-02-27
+839;Joao Queiroz;57;Sao Paulo;SP;676;2024-11-27
+840;Ana Oliveira;46;Campinas;SP;639;2020-07-28
+841;Elaine Igreja;51;Recife;PE;782;2023-02-18
+842;Fabio Teixeira;45;Joinville;SC;428;2021-10-20
+843;Bruno Ferraz;50;Goiania;GO;592;2021-10-03
+844;Thiago Vieira;51;Campinas;SP;567;2025-11-12
+845;Leandro Ribas;26;Pelotas;RS;807;2020-12-02
+846;Rodrigo Cardoso;38;Curitiba;PR;489;2024-07-25
+847;Leandro Henriques;33;Belo Horizonte;MG;712;2022-04-27
+848;Eduardo Nogueira;18;Fortaleza;CE;659;2025-03-26
+849;Joao Dias;43;Maringa;PR;725;2020-05-15
+850;Otavio Ribas;63;Londrina;PR;592;2025-08-18
+851;Rodrigo Salgado;49;Fortaleza;CE;712;2024-05-30
+852;Ana Henriques;32;Joinville;SC;650;2024-12-04
+853;Heitor Vieira;33;Belo Horizonte;MG;688;2023-11-15
+854;Fabio Dias;29;Niteroi;RJ;869;2022-06-03
+855;Isabela Salgado;41;Sao Paulo;SP;548;2025-07-31
+856;Ana Dias;34;Joinville;SC;764;2023-09-24
+857;Isabela Almeida;42;Londrina;PR;416;2020-09-18
+858;Rodrigo Henriques;42;Caxias do Sul;RS;749;2020-12-08
+859;Diego Machado;40;Belo Horizonte;MG;654;2024-11-12
+860;Cesar Ferraz;58;Rio de Janeiro;RJ;554;2025-05-30
+861;Isabela Dias;25;Curitiba;PR;723;2020-09-14
+862;Patricia Teixeira;30;Salvador;BA;448;2020-04-20
+863;Eduardo Igreja;36;Sao Paulo;SP;607;2024-09-07
+864;Diego Dias;18;Fortaleza;CE;607;2021-05-15
+865;Igor Esteves;19;Belo Horizonte;MG;762;2023-05-15
+866;Helena Henriques;48;Recife;PE;696;2024-04-07
+867;Yasmin Teixeira;56;Goiania;GO;599;2020-09-26
+868;Debora Nogueira;58;Sao Paulo;SP;677;2024-01-28
+869;Gustavo Almeida;23;Londrina;PR;595;2021-07-23
+870;Cesar Oliveira;24;Sorocaba;SP;499;2020-01-10
+871;Bruno Nogueira;52;Rio de Janeiro;RJ;758;2025-05-03
+872;Eduardo Machado;43;Belo Horizonte;MG;950;2022-02-14
+873;Marcia Henriques;47;Porto Alegre;RS;702;2022-02-28
+874;Cesar Oliveira;34;Curitiba;PR;692;2022-04-28
+875;Gustavo Nogueira;30;Salvador;BA;726;2025-04-26
+876;Karina Ribas;21;Recife;PE;505;2024-04-10
+877;Yasmin Machado;43;Salvador;BA;669;2023-02-14
+878;Helena Oliveira;46;Rio de Janeiro;RJ;648;2025-10-15
+879;Leandro Dias;18;Sao Paulo;SP;726;2023-10-26
+880;Camila Lacerda;41;Sorocaba;SP;504;2021-01-23
+881;Gabriela Ribas;34;Porto Alegre;RS;522;2025-09-07
+882;Heitor Esteves;37;Belo Horizonte;MG;654;2021-03-14
+883;Marcia Pinheiro;52;Sao Paulo;SP;831;2025-05-24
+884;Flavia Barros;44;Porto Alegre;RS;591;2025-07-14
+885;Helena Vieira;18;Curitiba;PR;684;2022-12-09
+886;Julia Vieira;39;Sao Paulo;SP;648;2022-11-08
+887;Wagner Salgado;47;Pelotas;RS;447;2025-07-08
+888;Vanessa Dias;30;Recife;PE;501;2023-02-09
+889;Diego Ribas;29;Maringa;PR;714;2025-10-07
+890;Nelson Henriques;43;Fortaleza;CE;614;2025-06-23
+891;Joao Dias;35;Recife;PE;699;2022-06-30
+892;Leandro Ferraz;37;Sorocaba;SP;569;2024-07-26
+893;Bruno Vieira;42;Rio de Janeiro;RJ;645;2020-02-27
+894;Igor Igreja;58;Rio de Janeiro;RJ;631;2024-12-20
+895;Otavio Teixeira;34;Caxias do Sul;RS;570;2024-04-03
+896;Otavio Dias;35;Joinville;SC;589;2020-03-07
+897;Elaine Junqueira;48;Niteroi;RJ;655;2021-05-11
+898;Thiago Junqueira;29;Salvador;BA;751;2022-11-05
+899;Heitor Cardoso;55;Rio de Janeiro;RJ;751;2022-09-12
+900;Gustavo Pinheiro;22;Salvador;BA;684;2023-06-08
+901;Wagner Nogueira;58;Curitiba;PR;703;2023-08-30
+902;Sabrina Machado;41;Niteroi;RJ;508;2020-10-01
+903;Igor Salgado;53;Curitiba;PR;570;2022-07-07
+904;Vanessa Queiroz;39;Goiania;GO;625;2020-08-29
+905;Gustavo Junqueira;24;Caxias do Sul;RS;511;2025-07-28
+906;Heitor Lacerda;18;Pelotas;RS;803;2023-06-08
+907;Gabriela Ribas;42;Fortaleza;CE;714;2021-08-15
+908;Thiago Nogueira;43;Porto Alegre;RS;704;2025-10-14
+909;Julia Machado;43;Pelotas;RS;799;2024-02-06
+910;Helena Henriques;37;Goiania;GO;801;2022-04-15
+911;Sabrina Lacerda;45;Recife;PE;689;2020-05-29
+912;Isabela Junqueira;48;Belo Horizonte;MG;671;2023-06-30
+913;Joao Barros;40;Rio de Janeiro;RJ;650;2025-09-03
+914;Fabio Salgado;50;Rio de Janeiro;RJ;811;2025-03-03
+915;Vanessa Machado;37;Blumenau;SC;688;2020-12-25
+916;Yasmin Barros;49;Recife;PE;664;2020-02-14
+917;Marcia Pinheiro;26;Porto Alegre;RS;835;2021-12-12
+918;Debora Dias;37;Campinas;SP;608;2020-01-29
+919;Heitor Esteves;38;Belo Horizonte;MG;685;2021-03-30
+920;Karina Machado;34;Porto Alegre;RS;647;2024-05-06
+921;Yasmin Gouveia;53;Fortaleza;CE;756;2022-10-25
+922;Gustavo Ribas;61;Niteroi;RJ;628;2024-11-07
+923;Debora Queiroz;31;Recife;PE;688;2022-11-27
+924;Flavia Esteves;47;Florianopolis;SC;778;2021-04-15
+925;Helena Dias;39;Joinville;SC;692;2025-11-14
+926;Nelson Salgado;24;Curitiba;PR;679;2024-08-07
+927;Patricia Nogueira;50;Campinas;SP;748;2024-03-29
+928;Nelson Igreja;32;Maringa;PR;552;2024-09-03
+929;Marcia Pinheiro;51;Campinas;SP;723;2020-10-13
+930;Joao Machado;26;Fortaleza;CE;696;2022-08-20
+931;Leandro Nogueira;26;Campinas;SP;677;2020-01-08
+932;Sabrina Vieira;51;Rio de Janeiro;RJ;636;2021-08-10
+933;Wagner Lacerda;41;Curitiba;PR;569;2025-11-04
+934;Flavia Queiroz;53;Joinville;SC;648;2021-08-25
+935;Otavio Junqueira;24;Maringa;PR;840;2023-11-08
+936;Sabrina Junqueira;42;Porto Alegre;RS;715;2024-04-17
+937;Nelson Teixeira;31;Rio de Janeiro;RJ;522;2021-09-09
+938;Thiago Henriques;38;Curitiba;PR;744;2024-12-06
+939;Gustavo Lacerda;31;Belo Horizonte;MG;702;2022-04-15
+940;Gustavo Vieira;53;Curitiba;PR;774;2023-03-14
+941;Karina Gouveia;31;Porto Alegre;RS;580;2021-02-19
+942;Igor Almeida;52;Londrina;PR;584;2025-08-19
+943;Bruno Igreja;36;Niteroi;RJ;477;2020-05-04
+944;Joao Salgado;33;Campinas;SP;677;2022-06-01
+945;Sabrina Vieira;27;Salvador;BA;864;2021-01-06
+946;Rodrigo Ribas;39;Rio de Janeiro;RJ;544;2021-02-04
+947;Marcia Pinheiro;27;Rio de Janeiro;RJ;788;2021-11-27
+948;Bruno Vieira;56;Florianopolis;SC;665;2021-12-24
+949;Otavio Almeida;35;Salvador;BA;732;2025-02-25
+950;Rodrigo Henriques;29;Caxias do Sul;RS;604;2024-10-22
+951;Nelson Machado;44;Campinas;SP;676;2020-04-20
+952;Marcia Salgado;44;Rio de Janeiro;RJ;628;2024-03-10
+953;Igor Gouveia;62;Porto Alegre;RS;579;2021-03-12
+954;Patricia Nogueira;18;Blumenau;SC;644;2020-12-25
+955;Eduardo Vieira;36;Niteroi;RJ;628;2022-01-25
+956;Cesar Ribas;33;Recife;PE;819;2024-11-19
+957;Fabio Machado;43;Rio de Janeiro;RJ;571;2022-05-09
+958;Leandro Cardoso;35;Campinas;SP;817;2022-06-08
+959;Rodrigo Ferraz;30;Curitiba;PR;932;2024-09-05
+960;Wagner Junqueira;50;Campinas;SP;627;2022-01-25
+961;Gustavo Ribas;41;Sao Paulo;SP;627;2021-03-14
+962;Wagner Ferraz;42;Florianopolis;SC;514;2020-01-16
+963;Joao Ribas;56;Joinville;SC;765;2023-08-03
+964;Rodrigo Gouveia;47;Blumenau;SC;462;2021-04-18
+965;Fabio Barros;44;Florianopolis;SC;736;2024-09-21
+966;Leandro Teixeira;56;Sao Paulo;SP;856;2025-06-11
+967;Cesar Oliveira;27;Sao Paulo;SP;857;2025-10-19
+968;Flavia Almeida;54;Curitiba;PR;440;2022-06-24
+969;Cesar Salgado;26;Blumenau;SC;677;2025-11-15
+970;Julia Junqueira;31;Belo Horizonte;MG;721;2021-06-17
+971;Gustavo Dias;31;Joinville;SC;514;2025-09-29
+972;Yasmin Almeida;39;Campinas;SP;479;2023-09-18
+973;Fabio Queiroz;21;Campinas;SP;625;2022-12-08
+974;Helena Salgado;36;Rio de Janeiro;RJ;703;2020-02-25
+975;Elaine Teixeira;47;Belo Horizonte;MG;561;2023-09-10
+976;Nelson Vieira;26;Sao Paulo;SP;851;2024-07-22
+977;Elaine Ferraz;46;Porto Alegre;RS;618;2020-02-08
+978;Eduardo Ribas;35;Goiania;GO;657;2024-09-21
+979;Ana Dias;45;Campinas;SP;758;2025-01-24
+980;Fabio Ribas;27;Uberlandia;MG;433;2020-06-02
+981;Gustavo Pinheiro;49;Caxias do Sul;RS;652;2021-02-02
+982;Flavia Barros;32;Florianopolis;SC;733;2025-10-11
+983;Yasmin Teixeira;33;Fortaleza;CE;583;2022-04-19
+984;Elaine Henriques;45;Porto Alegre;RS;740;2021-12-13
+985;Isabela Ferraz;30;Uberlandia;MG;515;2025-07-20
+986;Isabela Dias;39;Sao Paulo;SP;513;2025-03-18
+987;Leandro Gouveia;46;Florianopolis;SC;788;2020-11-15
+988;Vanessa Nogueira;49;Recife;PE;584;2025-09-12
+989;Bruno Henriques;53;Joinville;SC;654;2021-06-24
+990;Thiago Barros;58;Curitiba;PR;525;2020-12-27
+991;Bruno Vieira;52;Joinville;SC;660;2023-03-31
+992;Heitor Henriques;23;Caxias do Sul;RS;732;2025-06-04
+993;Fabio Teixeira;30;Rio de Janeiro;RJ;623;2023-12-22
+994;Karina Almeida;46;Uberlandia;MG;572;2020-10-23
+995;Joao Oliveira;41;Florianopolis;SC;601;2023-02-03
+996;Igor Queiroz;30;Belo Horizonte;MG;674;2025-02-28
+997;Heitor Nogueira;51;Rio de Janeiro;RJ;356;2023-06-09
+998;Nelson Junqueira;53;Sorocaba;SP;623;2021-06-13
+999;Igor Queiroz;57;Sao Paulo;SP;651;2025-09-01
+1000;Flavia Henriques;47;Salvador;BA;708;2024-12-08
+1001;Fabio Ferraz;22;Niteroi;RJ;686;2021-11-25
+1002;Marcia Ferraz;28;Sao Paulo;SP;518;2025-10-31
+1003;Igor Junqueira;22;Salvador;BA;652;2021-06-23
+1004;Sabrina Machado;31;Goiania;GO;750;2024-08-18
+1005;Karina Salgado;28;Joinville;SC;736;2021-08-05
+1006;Karina Nogueira;40;Curitiba;PR;579;2025-03-08
+1007;Diego Oliveira;49;Sorocaba;SP;632;2021-12-24
+1008;Sabrina Henriques;29;Fortaleza;CE;615;2021-07-29
+1009;Gabriela Pinheiro;37;Sao Paulo;SP;607;2022-09-27
+1010;Leandro Henriques;43;Fortaleza;CE;807;2021-01-12
+1011;Bruno Igreja;69;Fortaleza;CE;451;2025-08-20
+1012;Karina Esteves;48;Fortaleza;CE;742;2023-03-17
+1013;Cesar Esteves;51;Rio de Janeiro;RJ;603;2024-11-17
+1014;Gabriela Igreja;54;Maringa;PR;580;2024-06-26
+1015;Sabrina Pinheiro;37;Sao Paulo;SP;691;2020-09-05
+1016;Gustavo Henriques;47;Salvador;BA;507;2024-02-18
+1017;Leandro Machado;44;Sao Paulo;SP;643;2023-06-29
+1018;Debora Nogueira;29;Sao Paulo;SP;723;2021-09-10
+1019;Wagner Teixeira;25;Salvador;BA;743;2023-08-02
+1020;Joao Queiroz;36;Campinas;SP;680;2020-04-04
+1021;Gabriela Henriques;37;Belo Horizonte;MG;623;2020-11-03
+1022;Yasmin Esteves;38;Curitiba;PR;505;2022-12-29
+1023;Vanessa Pinheiro;49;Sao Paulo;SP;581;2021-10-16
+1024;Sabrina Henriques;41;Sao Paulo;SP;683;2021-05-21
+1025;Vanessa Ribas;42;Fortaleza;CE;604;2023-07-15
+1026;Elaine Dias;36;Salvador;BA;640;2020-03-01
+1027;Camila Salgado;20;Florianopolis;SC;722;2022-11-20
+1028;Debora Nogueira;47;Florianopolis;SC;649;2025-08-06
+1029;Yasmin Teixeira;26;Belo Horizonte;MG;744;2024-04-16
+1030;Joao Almeida;62;Maringa;PR;464;2021-07-18
+1031;Cesar Cardoso;18;Niteroi;RJ;640;2023-12-07
+1032;Eduardo Henriques;42;Belo Horizonte;MG;844;2022-04-27
+1033;Gabriela Dias;28;Uberlandia;MG;685;2025-02-26
+1034;Sabrina Machado;37;Sao Paulo;SP;785;2020-04-22
+1035;Eduardo Junqueira;52;Florianopolis;SC;585;2023-10-04
+1036;Camila Junqueira;66;Fortaleza;CE;837;2024-12-06
+1037;Heitor Junqueira;37;Belo Horizonte;MG;748;2024-07-03
+1038;Gustavo Nogueira;42;Porto Alegre;RS;849;2022-10-02
+1039;Leandro Nogueira;40;Sao Paulo;SP;519;2020-09-16
+1040;Eduardo Esteves;27;Curitiba;PR;510;2022-10-26
+1041;Fabio Almeida;28;Maringa;PR;661;2021-10-22
+1042;Yasmin Machado;33;Rio de Janeiro;RJ;677;2021-04-17
+1043;Ana Pinheiro;18;Sorocaba;SP;642;2023-02-18
+1044;Helena Nogueira;48;Goiania;GO;655;2021-12-20
+1045;Igor Dias;18;Belo Horizonte;MG;587;2023-11-18
+1046;Joao Dias;38;Londrina;PR;539;2022-11-18
+1047;Julia Vieira;49;Rio de Janeiro;RJ;561;2023-06-18
+1048;Cesar Barros;44;Florianopolis;SC;647;2021-05-19
+1049;Bruno Vieira;47;Sao Paulo;SP;465;2024-02-07
+1050;Nelson Gouveia;29;Rio de Janeiro;RJ;677;2022-07-09
+1051;Elaine Nogueira;31;Florianopolis;SC;567;2025-06-24
+1052;Sabrina Junqueira;37;Blumenau;SC;674;2023-11-27
+1053;Thiago Henriques;37;Blumenau;SC;423;2020-05-02
+1054;Cesar Ribas;47;Belo Horizonte;MG;738;2023-01-23
+1055;Julia Oliveira;41;Florianopolis;SC;703;2022-01-02
+1056;Julia Almeida;35;Porto Alegre;RS;460;2024-08-30
+1057;Gustavo Junqueira;30;Niteroi;RJ;384;2025-06-09
+1058;Igor Teixeira;52;Belo Horizonte;MG;667;2025-05-22
+1059;Heitor Dias;34;Curitiba;PR;533;2025-07-02
+1060;Flavia Lacerda;62;Porto Alegre;RS;680;2023-07-25
+1061;Eduardo Machado;39;Porto Alegre;RS;573;2024-12-14
+1062;Nelson Nogueira;32;Curitiba;PR;780;2023-06-11
+1063;Isabela Ribas;44;Blumenau;SC;820;2024-11-28
+1064;Leandro Oliveira;26;Maringa;PR;605;2020-12-15
+1065;Julia Lacerda;54;Joinville;SC;909;2020-04-11
+1066;Debora Pinheiro;35;Florianopolis;SC;407;2020-03-19
+1067;Bruno Gouveia;38;Blumenau;SC;617;2021-02-11
+1068;Yasmin Ribas;27;Sao Paulo;SP;733;2024-06-27
+1069;Patricia Gouveia;54;Pelotas;RS;764;2025-06-06
+1070;Cesar Salgado;43;Salvador;BA;834;2022-12-28
+1071;Fabio Salgado;46;Porto Alegre;RS;710;2024-01-31
+1072;Eduardo Henriques;27;Porto Alegre;RS;457;2022-12-31
+1073;Heitor Barros;34;Porto Alegre;RS;520;2024-01-13
+1074;Leandro Machado;22;Caxias do Sul;RS;658;2021-04-20
+1075;Camila Gouveia;27;Campinas;SP;668;2022-06-08
+1076;Elaine Esteves;29;Campinas;SP;706;2020-06-18
+1077;Yasmin Queiroz;41;Sao Paulo;SP;716;2023-04-02
+1078;Cesar Henriques;43;Salvador;BA;491;2025-11-07
+1079;Rodrigo Pinheiro;43;Belo Horizonte;MG;653;2024-06-04
+1080;Julia Machado;45;Curitiba;PR;490;2022-07-24
+1081;Elaine Esteves;37;Rio de Janeiro;RJ;758;2023-03-21
+1082;Karina Dias;19;Recife;PE;790;2021-02-26
+1083;Eduardo Ferraz;38;Sao Paulo;SP;470;2024-03-07
+1084;Vanessa Pinheiro;49;Sao Paulo;SP;763;2021-05-13
+1085;Gustavo Gouveia;24;Curitiba;PR;580;2024-08-20
+1086;Cesar Junqueira;41;Uberlandia;MG;641;2025-10-12
+1087;Leandro Queiroz;45;Goiania;GO;636;2023-08-09
+1088;Bruno Barros;29;Recife;PE;761;2022-10-08
+1089;Joao Gouveia;45;Sao Paulo;SP;777;2024-09-05
+1090;Cesar Junqueira;26;Campinas;SP;534;2020-11-22
+1091;Diego Ferraz;18;Niteroi;RJ;683;2022-04-12
+1092;Otavio Pinheiro;31;Florianopolis;SC;611;2021-11-06
+1093;Joao Ferraz;33;Porto Alegre;RS;660;2025-02-10
+1094;Bruno Almeida;36;Recife;PE;707;2020-08-30
+1095;Eduardo Queiroz;43;Florianopolis;SC;647;2024-12-23
+1096;Debora Lacerda;21;Rio de Janeiro;RJ;574;2022-12-14
+1097;Diego Queiroz;42;Joinville;SC;478;2021-01-18
+1098;Patricia Gouveia;46;Goiania;GO;720;2022-04-23
+1099;Ana Machado;30;Fortaleza;CE;471;2024-11-24
+1100;Wagner Junqueira;33;Recife;PE;476;2023-02-06
+1101;Wagner Henriques;32;Goiania;GO;741;2025-01-15
+1102;Elaine Almeida;18;Recife;PE;622;2025-08-20
+1103;Eduardo Nogueira;48;Curitiba;PR;575;2024-04-16
+1104;Joao Machado;52;Niteroi;RJ;682;2023-11-02
+1105;Wagner Ribas;43;Goiania;GO;742;2024-01-11
+1106;Diego Junqueira;58;Sao Paulo;SP;724;2022-04-03
+1107;Marcia Ferraz;27;Uberlandia;MG;738;2021-12-03
+1108;Karina Henriques;31;Rio de Janeiro;RJ;536;2021-10-14
+1109;Elaine Salgado;58;Uberlandia;MG;544;2021-10-11
+1110;Gustavo Igreja;42;Porto Alegre;RS;574;2023-03-27
+1111;Bruno Barros;43;Sao Paulo;SP;353;2024-09-18
+1112;Thiago Nogueira;29;Belo Horizonte;MG;594;2025-05-08
+1113;Gabriela Queiroz;29;Belo Horizonte;MG;715;2021-03-05
+1114;Patricia Ferraz;42;Porto Alegre;RS;550;2022-07-23
+1115;Vanessa Teixeira;54;Sao Paulo;SP;523;2025-01-07
+1116;Elaine Henriques;18;Salvador;BA;598;2024-01-31
+1117;Elaine Pinheiro;50;Curitiba;PR;502;2021-06-01
+1118;Camila Barros;35;Maringa;PR;506;2020-12-27
+1119;Patricia Gouveia;50;Belo Horizonte;MG;623;2023-06-21
+1120;Debora Machado;28;Sao Paulo;SP;661;2025-11-20
+1121;Bruno Vieira;37;Salvador;BA;378;2020-03-08
+1122;Nelson Esteves;30;Londrina;PR;659;2022-09-28
+1123;Camila Barros;44;Belo Horizonte;MG;543;2020-02-24
+1124;Cesar Oliveira;21;Londrina;PR;534;2022-02-13
+1125;Camila Pinheiro;40;Niteroi;RJ;582;2025-10-26
+1126;Yasmin Ferraz;61;Sao Paulo;SP;652;2024-01-28
+1127;Marcia Junqueira;42;Goiania;GO;681;2025-11-14
+1128;Otavio Teixeira;51;Rio de Janeiro;RJ;550;2022-01-06
+1129;Thiago Gouveia;50;Fortaleza;CE;707;2020-08-29
+1130;Camila Salgado;45;Sao Paulo;SP;556;2022-04-16
+1131;Rodrigo Pinheiro;35;Rio de Janeiro;RJ;556;2021-02-11
+1132;Sabrina Esteves;43;Maringa;PR;695;2021-06-02
+1133;Vanessa Vieira;44;Florianopolis;SC;856;2025-01-02
+1134;Flavia Barros;56;Florianopolis;SC;634;2022-03-15
+1135;Vanessa Junqueira;35;Niteroi;RJ;575;2021-03-13
+1136;Leandro Queiroz;43;Florianopolis;SC;689;2024-05-20
+1137;Joao Lacerda;30;Joinville;SC;581;2025-08-09
+1138;Helena Gouveia;24;Goiania;GO;790;2023-06-04
+1139;Yasmin Pinheiro;31;Londrina;PR;657;2024-12-17
+1140;Elaine Teixeira;21;Porto Alegre;RS;676;2021-09-30
+1141;Sabrina Teixeira;53;Fortaleza;CE;462;2021-04-01
+1142;Leandro Ribas;18;Porto Alegre;RS;577;2023-03-23
+1143;Thiago Pinheiro;25;Sao Paulo;SP;446;2021-06-22
+1144;Isabela Dias;32;Blumenau;SC;753;2023-05-16
+1145;Fabio Gouveia;38;Belo Horizonte;MG;600;2024-08-29
+1146;Heitor Igreja;32;Florianopolis;SC;550;2024-11-08
+1147;Gabriela Ribas;38;Londrina;PR;554;2023-02-05
+1148;Cesar Queiroz;19;Belo Horizonte;MG;351;2023-05-17
+1149;Sabrina Pinheiro;44;Sao Paulo;SP;539;2023-05-19
+1150;Sabrina Teixeira;32;Florianopolis;SC;596;2024-08-26
+1151;Debora Ribas;35;Belo Horizonte;MG;727;2025-01-07
+1152;Helena Oliveira;56;Sao Paulo;SP;697;2025-02-04
+1153;Flavia Pinheiro;56;Caxias do Sul;RS;561;2024-05-30
+1154;Helena Ribas;37;Rio de Janeiro;RJ;731;2020-03-25
+1155;Cesar Dias;32;Florianopolis;SC;778;2020-02-21
+1156;Diego Pinheiro;37;Goiania;GO;676;2021-07-10
+1157;Sabrina Ferraz;18;Porto Alegre;RS;490;2023-10-09
+1158;Thiago Queiroz;18;Recife;PE;784;2024-11-15
+1159;Elaine Machado;38;Sao Paulo;SP;655;2025-04-10
+1160;Marcia Henriques;41;Rio de Janeiro;RJ;641;2025-05-22
+1161;Leandro Barros;22;Goiania;GO;651;2025-09-30
+1162;Cesar Vieira;34;Niteroi;RJ;752;2023-07-13
+1163;Otavio Junqueira;36;Blumenau;SC;412;2024-07-26
+1164;Cesar Esteves;32;Fortaleza;CE;585;2021-02-21
+1165;Julia Cardoso;33;Sao Paulo;SP;690;2023-08-29
+1166;Thiago Dias;32;Campinas;SP;730;2021-12-10
+1167;Fabio Machado;42;Campinas;SP;629;2022-02-02
+1168;Flavia Almeida;51;Blumenau;SC;552;2023-01-19
+1169;Diego Henriques;40;Recife;PE;635;2021-09-26
+1170;Rodrigo Ribas;35;Rio de Janeiro;RJ;760;2021-11-30
+1171;Debora Queiroz;31;Maringa;PR;630;2025-06-06
+1172;Gustavo Vieira;57;Fortaleza;CE;624;2021-12-15
+1173;Diego Machado;29;Rio de Janeiro;RJ;458;2022-04-01
+1174;Flavia Vieira;50;Rio de Janeiro;RJ;726;2024-08-26
+1175;Bruno Henriques;57;Sao Paulo;SP;669;2023-01-24
+1176;Leandro Gouveia;35;Maringa;PR;814;2020-11-28
+1177;Ana Teixeira;32;Sorocaba;SP;691;2020-12-26
+1178;Diego Almeida;47;Sorocaba;SP;802;2020-06-11
+1179;Diego Cardoso;58;Goiania;GO;650;2023-01-08
+1180;Fabio Esteves;44;Sao Paulo;SP;773;2022-09-01
+1181;Helena Nogueira;24;Sorocaba;SP;442;2024-04-20
+1182;Thiago Igreja;25;Blumenau;SC;418;2022-11-27
+1183;Otavio Almeida;35;Recife;PE;785;2025-08-22
+1184;Karina Esteves;37;Joinville;SC;796;2020-06-15
+1185;Rodrigo Queiroz;40;Rio de Janeiro;RJ;796;2025-07-25
+1186;Flavia Barros;40;Goiania;GO;607;2025-01-30
+1187;Fabio Vieira;33;Caxias do Sul;RS;762;2021-07-08
+1188;Gustavo Queiroz;27;Campinas;SP;669;2024-02-22
+1189;Cesar Pinheiro;32;Campinas;SP;754;2021-07-04
+1190;Heitor Vieira;31;Porto Alegre;RS;673;2020-02-14
+1191;Camila Machado;46;Rio de Janeiro;RJ;625;2022-03-24
+1192;Rodrigo Gouveia;21;Salvador;BA;719;2022-06-06
+1193;Igor Esteves;46;Porto Alegre;RS;569;2025-06-06
+1194;Gabriela Ferraz;41;Pelotas;RS;520;2021-11-14
+1195;Debora Pinheiro;60;Sao Paulo;SP;791;2022-03-15
+1196;Thiago Pinheiro;58;Florianopolis;SC;647;2021-07-27
+1197;Julia Machado;32;Rio de Janeiro;RJ;797;2022-05-24
+1198;Ana Lacerda;44;Curitiba;PR;729;2020-06-30
+1199;Karina Henriques;20;Londrina;PR;632;2025-09-08
+1200;Heitor Pinheiro;37;Blumenau;SC;687;2025-05-30
+1201;Wagner Esteves;25;Salvador;BA;681;2024-04-22
+1202;Isabela Nogueira;40;Recife;PE;743;2022-11-08
+1203;Camila Ribas;41;Caxias do Sul;RS;623;2022-12-24
+1204;Leandro Teixeira;47;Campinas;SP;652;2024-05-11
+1205;Cesar Barros;30;Curitiba;PR;718;2024-11-06
+1206;Helena Gouveia;37;Blumenau;SC;815;2021-02-20
+1207;Wagner Teixeira;34;Uberlandia;MG;693;2024-10-22
+1208;Leandro Junqueira;18;Sao Paulo;SP;887;2023-04-01
+1209;Helena Esteves;29;Blumenau;SC;652;2025-02-09
+1210;Joao Lacerda;31;Sao Paulo;SP;493;2021-11-07
+1211;Rodrigo Henriques;26;Sorocaba;SP;809;2021-12-27
+1212;Helena Salgado;18;Recife;PE;609;2021-05-14
+1213;Karina Barros;46;Sao Paulo;SP;754;2022-02-19
+1214;Yasmin Lacerda;18;Rio de Janeiro;RJ;519;2020-07-08
+1215;Rodrigo Machado;47;Sorocaba;SP;717;2023-03-10
+1216;Flavia Henriques;49;Belo Horizonte;MG;580;2022-01-01
+1217;Elaine Esteves;36;Florianopolis;SC;692;2023-08-13
+1218;Ana Pinheiro;42;Rio de Janeiro;RJ;528;2021-05-18
+1219;Otavio Nogueira;55;Goiania;GO;681;2022-07-12
+1220;Julia Ferraz;24;Rio de Janeiro;RJ;529;2025-03-05
+1221;Elaine Junqueira;29;Maringa;PR;752;2022-06-17
+1222;Isabela Teixeira;27;Campinas;SP;558;2022-02-06
+1223;Camila Gouveia;39;Curitiba;PR;696;2025-01-08
+1224;Thiago Ferraz;27;Sao Paulo;SP;713;2022-07-04
+1225;Thiago Machado;58;Goiania;GO;689;2020-09-02
+1226;Leandro Oliveira;30;Joinville;SC;533;2025-02-27
+1227;Gustavo Queiroz;18;Fortaleza;CE;449;2022-05-04
+1228;Igor Ferraz;36;Pelotas;RS;717;2022-10-29
+1229;Igor Igreja;42;Recife;PE;723;2025-08-29
+1230;Eduardo Ferraz;33;Porto Alegre;RS;643;2022-11-30
+1231;Heitor Almeida;43;Belo Horizonte;MG;514;2023-06-21
+1232;Bruno Nogueira;39;Rio de Janeiro;RJ;628;2020-11-23
+1233;Gabriela Vieira;20;Sao Paulo;SP;427;2022-10-01
+1234;Helena Ribas;36;Recife;PE;869;2024-10-20
+1235;Gabriela Henriques;20;Niteroi;RJ;797;2025-04-13
+1236;Elaine Vieira;22;Uberlandia;MG;686;2025-05-16
+1237;Camila Cardoso;36;Belo Horizonte;MG;754;2022-02-03
+1238;Debora Esteves;34;Uberlandia;MG;575;2025-11-11
+1239;Gabriela Igreja;32;Sao Paulo;SP;664;2025-10-01
+1240;Wagner Lacerda;34;Curitiba;PR;718;2025-08-11
+1241;Gabriela Lacerda;28;Rio de Janeiro;RJ;707;2022-04-03
+1242;Helena Almeida;33;Curitiba;PR;591;2020-06-19
+1243;Marcia Vieira;41;Rio de Janeiro;RJ;624;2022-02-17
+1244;Fabio Barros;49;Joinville;SC;830;2021-04-10
+1245;Flavia Barros;35;Recife;PE;613;2024-12-09
+1246;Wagner Vieira;28;Porto Alegre;RS;653;2022-03-02
+1247;Eduardo Queiroz;22;Maringa;PR;628;2021-06-09
+1248;Isabela Pinheiro;50;Blumenau;SC;646;2025-10-07
+1249;Ana Lacerda;54;Sorocaba;SP;616;2022-05-28
+1250;Bruno Oliveira;54;Salvador;BA;744;2022-03-24
+1251;Fabio Cardoso;39;Londrina;PR;581;2025-09-16
+1252;Elaine Gouveia;39;Florianopolis;SC;635;2024-04-26
+1253;Rodrigo Cardoso;40;Sorocaba;SP;821;2021-11-27
+1254;Gustavo Machado;22;Niteroi;RJ;770;2021-03-04
+1255;Leandro Salgado;18;Porto Alegre;RS;642;2024-03-13
+1256;Yasmin Vieira;46;Belo Horizonte;MG;950;2022-03-17
+1257;Heitor Vieira;54;Recife;PE;777;2023-01-10
+1258;Gustavo Queiroz;55;Sorocaba;SP;724;2025-07-25
+1259;Eduardo Junqueira;25;Fortaleza;CE;400;2020-11-01
+1260;Sabrina Igreja;21;Londrina;PR;689;2021-11-12
+1261;Rodrigo Ribas;51;Joinville;SC;593;2022-11-05
+1262;Elaine Igreja;30;Niteroi;RJ;729;2025-10-25
+1263;Sabrina Queiroz;25;Caxias do Sul;RS;760;2024-10-19
+1264;Wagner Machado;50;Fortaleza;CE;444;2024-03-25
+1265;Wagner Henriques;18;Sao Paulo;SP;786;2021-06-04
+1266;Eduardo Cardoso;44;Campinas;SP;541;2025-08-09
+1267;Vanessa Esteves;38;Fortaleza;CE;756;2024-07-19
+1268;Bruno Salgado;46;Florianopolis;SC;342;2020-04-16
+1269;Gabriela Salgado;31;Salvador;BA;545;2023-11-18
+1270;Isabela Vieira;19;Fortaleza;CE;748;2021-10-26
+1271;Debora Esteves;47;Recife;PE;535;2023-12-06
+1272;Helena Ferraz;44;Maringa;PR;686;2025-08-05
+1273;Leandro Henriques;37;Curitiba;PR;629;2020-12-19
+1274;Helena Queiroz;45;Sao Paulo;SP;676;2023-07-12
+1275;Wagner Machado;18;Florianopolis;SC;794;2021-07-22
+1276;Otavio Gouveia;42;Recife;PE;580;2022-04-15
+1277;Flavia Almeida;26;Salvador;BA;611;2024-09-16
+1278;Yasmin Almeida;48;Uberlandia;MG;565;2025-03-08
+1279;Flavia Nogueira;39;Sao Paulo;SP;434;2021-12-26
+1280;Bruno Henriques;34;Sorocaba;SP;602;2021-09-13
+1281;Nelson Nogueira;36;Joinville;SC;661;2023-05-29
+1282;Ana Igreja;34;Curitiba;PR;557;2025-09-07
+1283;Isabela Oliveira;65;Campinas;SP;651;2023-03-17
+1284;Heitor Machado;25;Fortaleza;CE;723;2023-08-22
+1285;Karina Oliveira;29;Sao Paulo;SP;714;2022-10-17
+1286;Joao Queiroz;38;Pelotas;RS;755;2023-06-28
+1287;Thiago Ferraz;31;Curitiba;PR;776;2020-07-25
+1288;Helena Igreja;26;Goiania;GO;838;2024-05-21
+1289;Gustavo Junqueira;25;Niteroi;RJ;654;2022-10-01
+1290;Camila Lacerda;36;Rio de Janeiro;RJ;428;2025-11-15
+1291;Patricia Henriques;48;Recife;PE;811;2024-02-09
+1292;Karina Vieira;51;Salvador;BA;723;2020-11-02
+1293;Gabriela Teixeira;39;Florianopolis;SC;597;2025-05-02
+1294;Igor Gouveia;46;Sorocaba;SP;587;2021-11-16
+1295;Bruno Pinheiro;26;Sao Paulo;SP;583;2023-11-16
+1296;Nelson Esteves;34;Recife;PE;556;2022-08-01
+1297;Yasmin Almeida;41;Fortaleza;CE;397;2024-09-01
+1298;Elaine Almeida;21;Sao Paulo;SP;556;2024-06-03
+1299;Julia Junqueira;43;Curitiba;PR;637;2024-03-24
+1300;Rodrigo Machado;42;Curitiba;PR;594;2024-10-28
+1301;Eduardo Ferraz;59;Curitiba;PR;586;2020-09-16
+1302;Yasmin Nogueira;24;Campinas;SP;545;2024-11-27
+1303;Nelson Lacerda;54;Londrina;PR;719;2021-06-21
+1304;Igor Lacerda;47;Recife;PE;562;2025-07-20
+1305;Thiago Henriques;33;Florianopolis;SC;631;2023-08-30
+1306;Flavia Almeida;33;Joinville;SC;684;2025-06-29
+1307;Elaine Ribas;33;Belo Horizonte;MG;508;2023-04-28
+1308;Thiago Oliveira;36;Fortaleza;CE;526;2024-09-28
+1309;Debora Almeida;18;Rio de Janeiro;RJ;489;2025-05-18
+1310;Igor Lacerda;18;Salvador;BA;857;2025-03-12
+1311;Igor Dias;33;Goiania;GO;603;2024-07-26
+1312;Patricia Esteves;34;Florianopolis;SC;630;2020-01-10
+1313;Nelson Almeida;58;Curitiba;PR;675;2023-11-29
+1314;Heitor Salgado;49;Porto Alegre;RS;550;2024-04-05
+1315;Wagner Salgado;47;Niteroi;RJ;431;2020-04-21
+1316;Diego Ribas;27;Curitiba;PR;595;2021-12-14
+1317;Gustavo Queiroz;48;Fortaleza;CE;515;2025-01-19
+1318;Leandro Gouveia;23;Belo Horizonte;MG;651;2023-05-29
+1319;Debora Cardoso;35;Florianopolis;SC;723;2022-11-09
+1320;Cesar Ferraz;39;Belo Horizonte;MG;873;2025-09-30
+1321;Isabela Igreja;20;Curitiba;PR;616;2025-02-22
+1322;Bruno Gouveia;35;Sao Paulo;SP;882;2020-03-19
+1323;Bruno Oliveira;37;Fortaleza;CE;913;2021-11-07
+1324;Isabela Almeida;41;Blumenau;SC;667;2022-04-07
+1325;Cesar Barros;47;Rio de Janeiro;RJ;675;2020-10-30
+1326;Sabrina Junqueira;55;Belo Horizonte;MG;576;2022-03-18
+1327;Cesar Oliveira;50;Londrina;PR;551;2022-11-27
+1328;Marcia Oliveira;60;Belo Horizonte;MG;517;2022-05-08
+1329;Sabrina Oliveira;38;Florianopolis;SC;540;2021-08-16
+1330;Elaine Nogueira;28;Porto Alegre;RS;559;2021-08-06
+1331;Igor Oliveira;41;Florianopolis;SC;686;2024-04-25
+1332;Igor Almeida;25;Curitiba;PR;731;2023-03-28
+1333;Vanessa Ribas;42;Maringa;PR;869;2023-01-23
+1334;Cesar Vieira;38;Belo Horizonte;MG;806;2021-09-09
+1335;Heitor Gouveia;31;Porto Alegre;RS;750;2024-08-13
+1336;Camila Vieira;34;Salvador;BA;571;2025-07-17
+1337;Julia Barros;21;Porto Alegre;RS;731;2021-05-14
+1338;Cesar Salgado;49;Sao Paulo;SP;696;2022-04-13
+1339;Yasmin Pinheiro;41;Curitiba;PR;745;2022-05-19
+1340;Otavio Teixeira;18;Londrina;PR;601;2025-11-28
+1341;Patricia Queiroz;40;Campinas;SP;366;2020-03-13
+1342;Karina Teixeira;26;Salvador;BA;558;2021-08-28
+1343;Heitor Nogueira;38;Sorocaba;SP;541;2021-12-08
+1344;Cesar Cardoso;76;Florianopolis;SC;674;2021-07-04
+1345;Rodrigo Igreja;38;Curitiba;PR;630;2022-04-22
+1346;Camila Salgado;55;Salvador;BA;601;2023-06-01
+1347;Julia Vieira;59;Florianopolis;SC;807;2022-12-12
+1348;Isabela Queiroz;18;Salvador;BA;652;2022-01-07
+1349;Rodrigo Teixeira;56;Rio de Janeiro;RJ;496;2020-07-28
+1350;Thiago Henriques;46;Campinas;SP;638;2024-04-29
+1351;Camila Ribas;46;Uberlandia;MG;602;2021-11-01
+1352;Rodrigo Gouveia;46;Sao Paulo;SP;781;2020-01-02
+1353;Fabio Machado;36;Rio de Janeiro;RJ;693;2023-03-30
+1354;Yasmin Ferraz;22;Joinville;SC;557;2024-03-17
+1355;Gustavo Pinheiro;31;Fortaleza;CE;552;2023-12-05
+1356;Wagner Barros;35;Joinville;SC;519;2022-04-23
+1357;Marcia Machado;32;Porto Alegre;RS;642;2021-02-12
+1358;Diego Oliveira;40;Curitiba;PR;468;2024-03-11
+1359;Cesar Igreja;27;Recife;PE;648;2021-09-17
+1360;Diego Machado;55;Salvador;BA;603;2021-12-02
+1361;Yasmin Ribas;49;Sorocaba;SP;584;2020-01-27
+1362;Joao Pinheiro;44;Florianopolis;SC;709;2024-12-06
+1363;Isabela Nogueira;25;Curitiba;PR;841;2022-08-30
+1364;Otavio Dias;29;Sorocaba;SP;576;2020-11-17
+1365;Wagner Queiroz;25;Niteroi;RJ;597;2023-12-18
+1366;Eduardo Ribas;44;Rio de Janeiro;RJ;573;2024-03-28
+1367;Ana Esteves;44;Rio de Janeiro;RJ;551;2021-10-21
+1368;Patricia Ribas;40;Fortaleza;CE;659;2023-04-03
+1369;Vanessa Machado;18;Maringa;PR;590;2020-01-19
+1370;Karina Nogueira;51;Salvador;BA;502;2023-01-31
+1371;Ana Salgado;38;Florianopolis;SC;520;2023-09-01
+1372;Ana Teixeira;35;Pelotas;RS;783;2023-01-03
+1373;Bruno Teixeira;28;Fortaleza;CE;554;2023-12-02
+1374;Joao Salgado;36;Sao Paulo;SP;731;2022-11-03
+1375;Julia Lacerda;32;Porto Alegre;RS;685;2023-01-19
+1376;Heitor Igreja;33;Rio de Janeiro;RJ;556;2021-01-02
+1377;Camila Ribas;40;Uberlandia;MG;507;2020-05-21
+1378;Helena Cardoso;40;Recife;PE;817;2023-08-28
+1379;Elaine Oliveira;36;Maringa;PR;512;2022-08-30
+1380;Vanessa Machado;52;Sorocaba;SP;702;2025-06-05
+1381;Cesar Pinheiro;18;Rio de Janeiro;RJ;836;2021-09-15
+1382;Leandro Barros;34;Londrina;PR;526;2022-08-10
+1383;Nelson Oliveira;47;Campinas;SP;629;2023-01-15
+1384;Leandro Henriques;32;Curitiba;PR;676;2021-08-06
+1385;Helena Teixeira;45;Joinville;SC;583;2024-06-19
+1386;Julia Vieira;43;Sorocaba;SP;576;2023-10-09
+1387;Helena Teixeira;38;Blumenau;SC;512;2021-09-28
+1388;Camila Gouveia;43;Goiania;GO;394;2022-03-23
+1389;Helena Cardoso;25;Uberlandia;MG;611;2025-01-08
+1390;Eduardo Pinheiro;41;Porto Alegre;RS;687;2021-08-30
+1391;Marcia Ribas;42;Rio de Janeiro;RJ;591;2021-04-08
+1392;Patricia Almeida;60;Porto Alegre;RS;672;2024-09-16
+1393;Thiago Teixeira;36;Niteroi;RJ;717;2020-09-24
+1394;Julia Pinheiro;38;Curitiba;PR;761;2021-01-10
+1395;Nelson Queiroz;45;Belo Horizonte;MG;699;2023-12-11
+1396;Igor Cardoso;46;Rio de Janeiro;RJ;519;2020-12-26
+1397;Marcia Queiroz;40;Salvador;BA;454;2024-05-26
+1398;Rodrigo Almeida;30;Rio de Janeiro;RJ;789;2023-04-25
+1399;Debora Gouveia;35;Porto Alegre;RS;593;2021-05-31
+1400;Sabrina Barros;21;Florianopolis;SC;631;2022-08-15
+1401;Sabrina Lacerda;33;Blumenau;SC;820;2021-07-28
+1402;Eduardo Pinheiro;33;Salvador;BA;547;2024-08-05
+1403;Camila Henriques;51;Niteroi;RJ;697;2025-01-20
+1404;Thiago Almeida;26;Blumenau;SC;720;2024-10-11
+1405;Patricia Cardoso;39;Curitiba;PR;627;2023-07-02
+1406;Thiago Pinheiro;22;Rio de Janeiro;RJ;679;2025-04-20
+1407;Gustavo Gouveia;32;Fortaleza;CE;628;2022-02-26
+1408;Patricia Barros;32;Florianopolis;SC;489;2021-03-26
+1409;Gustavo Teixeira;35;Curitiba;PR;492;2024-05-06
+1410;Nelson Barros;38;Sao Paulo;SP;640;2024-04-14
+1411;Karina Lacerda;34;Rio de Janeiro;RJ;632;2023-10-14
+1412;Rodrigo Almeida;19;Sao Paulo;SP;575;2023-10-31
+1413;Sabrina Igreja;43;Caxias do Sul;RS;543;2020-02-02
+1414;Isabela Cardoso;39;Salvador;BA;710;2022-05-29
+1415;Marcia Igreja;33;Sao Paulo;SP;801;2022-07-27
+1416;Sabrina Nogueira;60;Salvador;BA;786;2020-03-10
+1417;Igor Oliveira;43;Rio de Janeiro;RJ;515;2025-05-06
+1418;Joao Junqueira;27;Recife;PE;613;2023-02-18
+1419;Helena Nogueira;39;Belo Horizonte;MG;592;2021-01-10
+1420;Helena Salgado;44;Goiania;GO;668;2023-01-13
+1421;Joao Gouveia;46;Niteroi;RJ;544;2024-06-10
+1422;Bruno Gouveia;61;Curitiba;PR;647;2021-09-22
+1423;Julia Pinheiro;18;Rio de Janeiro;RJ;478;2020-06-08
+1424;Cesar Teixeira;43;Rio de Janeiro;RJ;625;2024-05-02
+1425;Leandro Lacerda;40;Campinas;SP;661;2023-09-03
+1426;Otavio Salgado;34;Londrina;PR;650;2025-05-06
+1427;Debora Lacerda;43;Rio de Janeiro;RJ;792;2025-10-28
+1428;Sabrina Cardoso;23;Maringa;PR;624;2021-05-02
+1429;Thiago Lacerda;39;Florianopolis;SC;670;2025-07-10
+1430;Isabela Henriques;27;Caxias do Sul;RS;589;2020-12-29
+1431;Joao Gouveia;22;Salvador;BA;851;2023-07-28
+1432;Flavia Teixeira;44;Uberlandia;MG;699;2020-10-26
+1433;Marcia Pinheiro;44;Londrina;PR;496;2023-08-19
+1434;Igor Gouveia;18;Londrina;PR;772;2025-04-09
+1435;Fabio Oliveira;40;Maringa;PR;661;2024-07-10
+1436;Bruno Esteves;47;Campinas;SP;706;2025-02-10
+1437;Gustavo Vieira;64;Fortaleza;CE;773;2020-05-05
+1438;Fabio Almeida;49;Rio de Janeiro;RJ;543;2024-01-29
+1439;Patricia Henriques;52;Blumenau;SC;787;2022-08-12
+1440;Flavia Gouveia;41;Caxias do Sul;RS;740;2024-02-19
+1441;Elaine Gouveia;45;Curitiba;PR;557;2020-02-17
+1442;Diego Pinheiro;20;Fortaleza;CE;666;2024-11-06
+1443;Gabriela Cardoso;32;Belo Horizonte;MG;841;2025-05-09
+1444;Nelson Henriques;28;Sao Paulo;SP;646;2023-01-11
+1445;Cesar Pinheiro;39;Fortaleza;CE;914;2021-02-26
+1446;Elaine Barros;44;Sao Paulo;SP;404;2024-06-03
+1447;Bruno Ferraz;21;Sao Paulo;SP;637;2020-11-29
+1448;Joao Henriques;31;Fortaleza;CE;779;2022-05-06
+1449;Cesar Salgado;33;Campinas;SP;680;2024-03-11
+1450;Joao Igreja;77;Porto Alegre;RS;488;2022-04-13
+1451;Sabrina Gouveia;35;Rio de Janeiro;RJ;679;2024-03-19
+1452;Flavia Henriques;39;Maringa;PR;591;2021-07-12
+1453;Bruno Lacerda;41;Sao Paulo;SP;622;2021-08-28
+1454;Elaine Junqueira;45;Sao Paulo;SP;630;2023-06-01
+1455;Wagner Salgado;34;Sao Paulo;SP;495;2024-11-13
+1456;Gabriela Pinheiro;43;Joinville;SC;696;2024-04-01
+1457;Debora Ferraz;46;Joinville;SC;639;2021-02-05
+1458;Karina Nogueira;33;Fortaleza;CE;504;2024-08-20
+1459;Bruno Machado;43;Blumenau;SC;437;2024-07-19
+1460;Yasmin Gouveia;32;Sao Paulo;SP;553;2020-01-15
+1461;Rodrigo Cardoso;32;Niteroi;RJ;819;2022-08-29
+1462;Patricia Machado;25;Sao Paulo;SP;748;2025-09-20
+1463;Eduardo Queiroz;40;Recife;PE;560;2024-11-16
+1464;Gabriela Queiroz;52;Salvador;BA;535;2022-10-12
+1465;Helena Junqueira;18;Maringa;PR;584;2024-12-04
+1466;Gabriela Esteves;35;Uberlandia;MG;705;2020-08-23
+1467;Isabela Henriques;52;Caxias do Sul;RS;643;2022-07-22
+1468;Bruno Teixeira;32;Porto Alegre;RS;751;2024-10-15
+1469;Ana Machado;55;Uberlandia;MG;610;2023-09-27
+1470;Elaine Junqueira;35;Blumenau;SC;467;2025-05-10
+1471;Fabio Lacerda;41;Pelotas;RS;677;2021-12-28
+1472;Otavio Queiroz;38;Sao Paulo;SP;718;2023-02-22
+1473;Karina Machado;36;Recife;PE;623;2023-11-30
+1474;Diego Junqueira;42;Curitiba;PR;669;2025-02-20
+1475;Debora Salgado;40;Fortaleza;CE;810;2020-10-25
+1476;Diego Salgado;39;Uberlandia;MG;829;2024-08-26
+1477;Flavia Ferraz;33;Porto Alegre;RS;502;2021-07-05
+1478;Otavio Barros;63;Rio de Janeiro;RJ;780;2025-07-16
+1479;Bruno Ribas;31;Porto Alegre;RS;720;2024-10-29
+1480;Nelson Esteves;25;Rio de Janeiro;RJ;571;2021-04-05
+1481;Thiago Machado;40;Sorocaba;SP;630;2025-01-23
+1482;Leandro Ferraz;40;Fortaleza;CE;665;2021-11-20
+1483;Fabio Cardoso;56;Porto Alegre;RS;740;2022-03-14
+1484;Ana Queiroz;37;Pelotas;RS;417;2022-07-08
+1485;Elaine Igreja;18;Sao Paulo;SP;554;2024-11-11
+1486;Diego Henriques;22;Rio de Janeiro;RJ;603;2024-08-09
+1487;Elaine Queiroz;30;Blumenau;SC;593;2022-11-20
+1488;Sabrina Salgado;32;Uberlandia;MG;654;2024-08-07
+1489;Karina Pinheiro;24;Uberlandia;MG;535;2023-02-28
+1490;Fabio Teixeira;32;Uberlandia;MG;688;2025-06-12
+1491;Rodrigo Igreja;33;Sao Paulo;SP;500;2021-10-21
+1492;Gabriela Junqueira;48;Goiania;GO;598;2021-05-23
+1493;Sabrina Gouveia;30;Curitiba;PR;505;2024-06-29
+1494;Julia Henriques;50;Florianopolis;SC;440;2020-04-16
+1495;Heitor Dias;31;Sao Paulo;SP;468;2025-10-01
+1496;Diego Barros;25;Sorocaba;SP;669;2020-06-10
+1497;Flavia Teixeira;45;Sao Paulo;SP;650;2023-07-22
+1498;Cesar Henriques;41;Pelotas;RS;709;2024-12-10
+1499;Eduardo Ferraz;36;Londrina;PR;619;2024-03-12
+1500;Gustavo Igreja;54;Sorocaba;SP;581;2025-07-28
+1501;Nelson Nogueira;55;Salvador;BA;674;2020-02-09
+1502;Diego Junqueira;47;Sao Paulo;SP;744;2024-07-25
+1503;Camila Teixeira;40;Florianopolis;SC;442;2023-06-24
+1504;Heitor Henriques;44;Uberlandia;MG;675;2020-03-01
+1505;Cesar Barros;33;Pelotas;RS;672;2023-03-01
+1506;Camila Vieira;33;Porto Alegre;RS;902;2022-02-19
+1507;Diego Barros;34;Goiania;GO;869;2023-07-05
+1508;Vanessa Ferraz;43;Curitiba;PR;709;2022-07-07
+1509;Karina Cardoso;35;Sao Paulo;SP;428;2020-09-27
+1510;Thiago Ferraz;44;Campinas;SP;661;2025-10-18
+1511;Karina Oliveira;28;Fortaleza;CE;593;2021-05-09
+1512;Bruno Cardoso;44;Porto Alegre;RS;747;2023-03-05
+1513;Elaine Ribas;18;Pelotas;RS;705;2024-01-17
+1514;Elaine Machado;54;Caxias do Sul;RS;670;2024-05-06
+1515;Gabriela Gouveia;25;Salvador;BA;575;2023-06-16
+1516;Yasmin Lacerda;52;Goiania;GO;634;2025-03-03
+1517;Ana Queiroz;44;Sao Paulo;SP;563;2025-06-30
+1518;Patricia Ribas;18;Campinas;SP;511;2022-03-21
+1519;Julia Cardoso;29;Sao Paulo;SP;703;2025-03-20
+1520;Gabriela Barros;32;Curitiba;PR;611;2021-10-26
+1521;Flavia Oliveira;35;Campinas;SP;720;2024-11-18
+1522;Wagner Machado;36;Curitiba;PR;490;2024-02-06
+1523;Flavia Queiroz;18;Sao Paulo;SP;693;2020-05-09
+1524;Elaine Igreja;42;Curitiba;PR;583;2022-07-10
+1525;Igor Barros;26;Rio de Janeiro;RJ;850;2020-09-09
+1526;Gustavo Teixeira;18;Maringa;PR;644;2024-01-27
+1527;Nelson Nogueira;54;Maringa;PR;597;2020-03-01
+1528;Joao Teixeira;25;Porto Alegre;RS;688;2024-08-14
+1529;Camila Igreja;33;Salvador;BA;749;2023-04-26
+1530;Heitor Gouveia;26;Porto Alegre;RS;676;2020-10-13
+1531;Sabrina Henriques;23;Recife;PE;605;2020-05-24
+1532;Thiago Barros;42;Fortaleza;CE;701;2021-07-10
+1533;Yasmin Nogueira;29;Recife;PE;625;2022-01-28
+1534;Gustavo Nogueira;31;Blumenau;SC;748;2021-05-13
+1535;Camila Henriques;32;Florianopolis;SC;744;2022-02-10
+1536;Yasmin Vieira;49;Uberlandia;MG;543;2021-02-18
+1537;Flavia Junqueira;33;Sao Paulo;SP;610;2025-11-13
+1538;Joao Queiroz;31;Londrina;PR;640;2025-09-26
+1539;Diego Queiroz;36;Curitiba;PR;790;2021-03-23
+1540;Nelson Vieira;42;Rio de Janeiro;RJ;807;2022-07-24
+1541;Otavio Esteves;30;Sao Paulo;SP;695;2022-02-27
+1542;Sabrina Gouveia;36;Florianopolis;SC;476;2024-12-26
+1543;Leandro Nogueira;53;Fortaleza;CE;878;2020-09-10
+1544;Vanessa Barros;28;Caxias do Sul;RS;845;2022-08-23
+1545;Karina Cardoso;55;Salvador;BA;766;2022-11-17
+1546;Fabio Pinheiro;38;Recife;PE;662;2021-05-08
+1547;Yasmin Salgado;56;Londrina;PR;611;2023-03-17
+1548;Diego Gouveia;41;Campinas;SP;525;2025-06-14
+1549;Marcia Ferraz;26;Niteroi;RJ;688;2021-07-19
+1550;Isabela Lacerda;54;Fortaleza;CE;598;2024-03-23
+1551;Leandro Ferraz;33;Recife;PE;601;2023-05-28
+1552;Leandro Vieira;26;Sao Paulo;SP;511;2021-06-30
+1553;Joao Queiroz;35;Florianopolis;SC;600;2022-05-07
+1554;Igor Ribas;43;Londrina;PR;778;2023-10-18
+1555;Helena Ferraz;41;Porto Alegre;RS;751;2021-07-14
+1556;Rodrigo Almeida;47;Curitiba;PR;649;2025-11-30
+1557;Helena Ferraz;36;Fortaleza;CE;640;2024-10-03
+1558;Heitor Pinheiro;48;Sao Paulo;SP;599;2023-02-08
+1559;Debora Machado;33;Sao Paulo;SP;793;2024-10-14
+1560;Sabrina Ribas;67;Sao Paulo;SP;477;2021-09-11
+1561;Elaine Igreja;33;Curitiba;PR;627;2021-04-02
+1562;Camila Ribas;47;Recife;PE;683;2022-03-16
+1563;Otavio Igreja;40;Sorocaba;SP;653;2022-08-08
+1564;Leandro Junqueira;45;Belo Horizonte;MG;669;2021-09-14
+1565;Rodrigo Barros;44;Porto Alegre;RS;522;2020-05-01
+1566;Patricia Machado;40;Fortaleza;CE;815;2025-09-19
+1567;Bruno Dias;48;Florianopolis;SC;798;2021-09-09
+1568;Otavio Junqueira;42;Blumenau;SC;687;2020-03-03
+1569;Igor Esteves;32;Florianopolis;SC;600;2020-10-09
+1570;Bruno Lacerda;27;Niteroi;RJ;593;2020-07-04
+1571;Elaine Almeida;38;Belo Horizonte;MG;562;2022-11-16
+1572;Elaine Gouveia;23;Salvador;BA;532;2020-03-22
+1573;Bruno Nogueira;46;Curitiba;PR;677;2023-12-22
+1574;Debora Teixeira;42;Caxias do Sul;RS;740;2022-10-08
+1575;Wagner Henriques;18;Blumenau;SC;637;2022-08-27
+1576;Eduardo Salgado;25;Rio de Janeiro;RJ;837;2025-08-18
+1577;Nelson Salgado;52;Goiania;GO;622;2021-05-07
+1578;Wagner Cardoso;35;Fortaleza;CE;767;2021-08-26
+1579;Patricia Machado;65;Curitiba;PR;689;2022-10-22
+1580;Karina Ferraz;41;Niteroi;RJ;713;2020-05-11
+1581;Gustavo Barros;39;Recife;PE;617;2022-01-09
+1582;Igor Esteves;54;Salvador;BA;758;2023-09-01
+1583;Rodrigo Barros;36;Sao Paulo;SP;725;2024-02-06
+1584;Joao Ribas;36;Pelotas;RS;541;2024-01-02
+1585;Yasmin Junqueira;35;Rio de Janeiro;RJ;493;2025-04-26
+1586;Thiago Junqueira;47;Belo Horizonte;MG;586;2021-08-16
+1587;Eduardo Machado;52;Caxias do Sul;RS;721;2023-10-27
+1588;Isabela Junqueira;34;Belo Horizonte;MG;740;2020-08-05
+1589;Gabriela Vieira;36;Campinas;SP;765;2022-04-27
+1590;Julia Pinheiro;26;Sao Paulo;SP;610;2021-05-25
+1591;Diego Igreja;52;Blumenau;SC;610;2021-11-11
+1592;Marcia Lacerda;56;Goiania;GO;670;2021-08-05
+1593;Flavia Queiroz;18;Sao Paulo;SP;701;2022-12-04
+1594;Diego Gouveia;53;Blumenau;SC;667;2020-11-13
+1595;Rodrigo Oliveira;40;Londrina;PR;658;2024-02-16
+1596;Eduardo Lacerda;61;Rio de Janeiro;RJ;644;2025-06-04
+1597;Elaine Igreja;42;Recife;PE;399;2020-08-23
+1598;Yasmin Salgado;37;Rio de Janeiro;RJ;653;2021-04-20
+1599;Eduardo Cardoso;44;Sao Paulo;SP;863;2022-10-31
+1600;Marcia Machado;44;Niteroi;RJ;761;2021-06-25
+1601;Rodrigo Junqueira;31;Sao Paulo;SP;667;2024-07-23
+1602;Isabela Pinheiro;32;Rio de Janeiro;RJ;639;2025-10-14
+1603;Bruno Salgado;40;Rio de Janeiro;RJ;808;2022-06-29
+1604;Leandro Vieira;52;Campinas;SP;544;2021-11-19
+1605;Isabela Henriques;34;Caxias do Sul;RS;950;2025-02-18
+1606;Igor Salgado;35;Campinas;SP;691;2024-11-02
+1607;Eduardo Vieira;42;Porto Alegre;RS;618;2021-04-16
+1608;Gustavo Dias;37;Sao Paulo;SP;755;2022-06-23
+1609;Fabio Ferraz;30;Porto Alegre;RS;512;2024-08-06
+1610;Eduardo Nogueira;25;Fortaleza;CE;798;2021-06-30
+1611;Gustavo Lacerda;56;Maringa;PR;661;2021-06-07
+1612;Marcia Queiroz;50;Rio de Janeiro;RJ;673;2022-02-21
+1613;Leandro Ferraz;36;Sao Paulo;SP;729;2024-04-23
+1614;Sabrina Ribas;34;Recife;PE;601;2021-04-12
+1615;Yasmin Junqueira;52;Joinville;SC;721;2024-06-02
+1616;Gabriela Lacerda;33;Campinas;SP;632;2025-03-06
+1617;Julia Oliveira;33;Belo Horizonte;MG;526;2025-03-03
+1618;Rodrigo Almeida;35;Niteroi;RJ;658;2023-04-12
+1619;Thiago Oliveira;18;Fortaleza;CE;654;2021-05-23
+1620;Gabriela Teixeira;51;Salvador;BA;594;2022-11-06
+1621;Flavia Esteves;53;Rio de Janeiro;RJ;444;2024-03-22
+1622;Heitor Henriques;24;Rio de Janeiro;RJ;482;2020-04-21
+1623;Diego Junqueira;51;Sao Paulo;SP;747;2025-07-17
+1624;Debora Nogueira;32;Goiania;GO;489;2022-09-11
+1625;Elaine Nogueira;59;Porto Alegre;RS;717;2022-11-01
+1626;Cesar Cardoso;33;Joinville;SC;748;2020-03-17
+1627;Isabela Vieira;55;Florianopolis;SC;854;2023-07-13
+1628;Igor Henriques;34;Londrina;PR;790;2022-06-14
+1629;Diego Machado;18;Uberlandia;MG;792;2025-01-13
+1630;Leandro Almeida;27;Uberlandia;MG;507;2020-02-13
+1631;Camila Dias;27;Sao Paulo;SP;729;2022-04-10
+1632;Gabriela Almeida;44;Florianopolis;SC;796;2020-10-14
+1633;Wagner Esteves;53;Curitiba;PR;528;2020-11-27
+1634;Isabela Ribas;38;Caxias do Sul;RS;657;2025-04-03
+1635;Otavio Teixeira;40;Niteroi;RJ;559;2025-07-22
+1636;Bruno Salgado;68;Recife;PE;660;2020-09-03
+1637;Diego Queiroz;37;Niteroi;RJ;464;2023-05-27
+1638;Joao Lacerda;40;Goiania;GO;796;2022-03-17
+1639;Rodrigo Teixeira;39;Florianopolis;SC;755;2023-05-03
+1640;Gabriela Salgado;18;Recife;PE;530;2023-07-30
+1641;Joao Teixeira;34;Sao Paulo;SP;697;2025-07-30
+1642;Heitor Ferraz;29;Recife;PE;610;2025-08-07
+1643;Flavia Ribas;24;Belo Horizonte;MG;793;2022-11-30
+1644;Nelson Machado;22;Blumenau;SC;501;2025-03-18
+1645;Wagner Igreja;32;Curitiba;PR;745;2024-11-30
+1646;Thiago Dias;51;Porto Alegre;RS;788;2021-06-07
+1647;Marcia Ribas;38;Curitiba;PR;695;2021-05-01
+1648;Heitor Barros;52;Recife;PE;521;2021-10-02
+1649;Sabrina Lacerda;51;Belo Horizonte;MG;670;2023-02-04
+1650;Camila Queiroz;34;Sao Paulo;SP;934;2024-06-02
+1651;Nelson Pinheiro;39;Fortaleza;CE;580;2020-10-26
+1652;Gabriela Lacerda;29;Campinas;SP;682;2023-10-16
+1653;Diego Nogueira;43;Porto Alegre;RS;689;2024-01-23
+1654;Joao Gouveia;63;Porto Alegre;RS;610;2025-01-22
+1655;Debora Ribas;34;Belo Horizonte;MG;451;2025-09-25
+1656;Otavio Gouveia;45;Recife;PE;562;2023-09-18
+1657;Eduardo Igreja;42;Sao Paulo;SP;563;2023-08-30
+1658;Sabrina Junqueira;27;Belo Horizonte;MG;493;2025-08-30
+1659;Julia Vieira;48;Campinas;SP;482;2025-09-28
+1660;Camila Machado;32;Maringa;PR;524;2023-08-12
+1661;Nelson Almeida;23;Porto Alegre;RS;661;2022-12-17
+1662;Sabrina Machado;29;Curitiba;PR;671;2024-01-31
+1663;Thiago Lacerda;44;Sao Paulo;SP;688;2021-12-10
+1664;Joao Dias;18;Uberlandia;MG;678;2025-06-03
+1665;Debora Ferraz;34;Porto Alegre;RS;597;2021-12-07
+1666;Nelson Almeida;43;Fortaleza;CE;621;2020-10-25
+1667;Eduardo Dias;28;Porto Alegre;RS;664;2022-01-27
+1668;Diego Esteves;39;Fortaleza;CE;756;2021-11-02
+1669;Eduardo Queiroz;51;Florianopolis;SC;499;2020-06-20
+1670;Camila Lacerda;47;Fortaleza;CE;873;2022-05-07
+1671;Patricia Esteves;43;Londrina;PR;613;2024-09-12
+1672;Rodrigo Teixeira;55;Niteroi;RJ;547;2023-02-06
+1673;Rodrigo Nogueira;52;Belo Horizonte;MG;593;2023-07-28
+1674;Leandro Igreja;18;Belo Horizonte;MG;637;2025-09-06
+1675;Julia Gouveia;46;Fortaleza;CE;682;2022-10-19
+1676;Gustavo Ribas;32;Florianopolis;SC;566;2021-01-08
+1677;Eduardo Nogueira;28;Florianopolis;SC;516;2024-02-11
+1678;Flavia Oliveira;51;Rio de Janeiro;RJ;581;2024-06-01
+1679;Elaine Almeida;35;Sao Paulo;SP;607;2024-09-02
+1680;Gabriela Teixeira;37;Campinas;SP;729;2021-09-01
+1681;Ana Almeida;18;Recife;PE;523;2024-12-14
+1682;Otavio Barros;35;Curitiba;PR;851;2023-08-19
+1683;Igor Teixeira;33;Sao Paulo;SP;698;2025-02-14
+1684;Helena Lacerda;67;Belo Horizonte;MG;824;2022-02-14
+1685;Vanessa Salgado;33;Goiania;GO;700;2020-09-27
+1686;Patricia Gouveia;51;Rio de Janeiro;RJ;627;2025-11-01
+1687;Heitor Gouveia;25;Recife;PE;713;2021-12-10
+1688;Marcia Dias;34;Maringa;PR;581;2024-10-26
+1689;Thiago Esteves;47;Salvador;BA;598;2023-09-05
+1690;Otavio Pinheiro;33;Campinas;SP;688;2020-12-27
+1691;Eduardo Cardoso;43;Sao Paulo;SP;667;2025-04-25
+1692;Helena Queiroz;18;Salvador;BA;779;2024-01-09
+1693;Marcia Henriques;34;Fortaleza;CE;836;2020-08-26
+1694;Cesar Queiroz;27;Sorocaba;SP;630;2024-04-30
+1695;Diego Queiroz;35;Goiania;GO;600;2021-08-21
+1696;Camila Henriques;35;Caxias do Sul;RS;648;2023-05-10
+1697;Ana Nogueira;43;Campinas;SP;458;2023-05-28
+1698;Wagner Barros;50;Belo Horizonte;MG;770;2023-03-14
+1699;Diego Gouveia;28;Curitiba;PR;686;2025-11-28
+1700;Bruno Pinheiro;50;Curitiba;PR;504;2025-05-16
+1701;Marcia Henriques;51;Salvador;BA;735;2023-06-16
+1702;Eduardo Barros;38;Sao Paulo;SP;948;2021-04-12
+1703;Isabela Barros;42;Campinas;SP;685;2024-03-13
+1704;Otavio Almeida;35;Salvador;BA;806;2020-07-19
+1705;Eduardo Dias;46;Fortaleza;CE;662;2024-11-01
+1706;Fabio Esteves;26;Rio de Janeiro;RJ;587;2024-02-04
+1707;Vanessa Ribas;49;Curitiba;PR;622;2022-04-17
+1708;Diego Ribas;34;Curitiba;PR;619;2021-08-21
+1709;Julia Almeida;39;Porto Alegre;RS;355;2025-02-09
+1710;Helena Almeida;27;Goiania;GO;649;2024-12-16
+1711;Rodrigo Salgado;48;Porto Alegre;RS;565;2025-01-18
+1712;Cesar Barros;38;Florianopolis;SC;771;2022-08-28
+1713;Otavio Nogueira;23;Rio de Janeiro;RJ;628;2025-10-31
+1714;Sabrina Gouveia;30;Niteroi;RJ;877;2025-08-25
+1715;Fabio Ribas;26;Sao Paulo;SP;704;2020-10-13
+1716;Gabriela Dias;34;Salvador;BA;859;2023-08-06
+1717;Yasmin Oliveira;18;Sorocaba;SP;658;2024-09-05
+1718;Vanessa Cardoso;52;Goiania;GO;713;2020-02-03
+1719;Leandro Dias;50;Sao Paulo;SP;695;2024-12-07
+1720;Debora Henriques;18;Florianopolis;SC;577;2024-10-12
+1721;Camila Machado;25;Rio de Janeiro;RJ;561;2022-11-05
+1722;Joao Junqueira;21;Caxias do Sul;RS;833;2022-08-08
+1723;Elaine Queiroz;36;Campinas;SP;628;2022-03-01
+1724;Eduardo Gouveia;61;Recife;PE;640;2025-11-03
+1725;Camila Cardoso;18;Fortaleza;CE;683;2025-06-06
+1726;Diego Vieira;43;Joinville;SC;528;2023-07-09
+1727;Rodrigo Nogueira;41;Maringa;PR;655;2020-10-22
+1728;Nelson Vieira;30;Campinas;SP;799;2023-07-22
+1729;Julia Cardoso;46;Campinas;SP;630;2025-09-04
+1730;Gustavo Barros;48;Sao Paulo;SP;906;2025-07-29
+1731;Yasmin Esteves;29;Salvador;BA;525;2021-02-01
+1732;Flavia Barros;18;Rio de Janeiro;RJ;550;2023-11-26
+1733;Vanessa Junqueira;40;Blumenau;SC;675;2020-12-18
+1734;Isabela Esteves;35;Florianopolis;SC;637;2023-02-01
+1735;Flavia Junqueira;36;Sao Paulo;SP;643;2022-01-04
+1736;Ana Lacerda;55;Recife;PE;689;2021-08-19
+1737;Diego Ferraz;54;Belo Horizonte;MG;607;2020-12-13
+1738;Fabio Queiroz;30;Joinville;SC;577;2022-04-06
+1739;Isabela Henriques;25;Blumenau;SC;582;2025-10-09
+1740;Nelson Salgado;45;Porto Alegre;RS;514;2025-09-07
+1741;Karina Henriques;41;Uberlandia;MG;643;2021-12-01
+1742;Julia Lacerda;33;Recife;PE;616;2025-11-24
+1743;Eduardo Henriques;34;Uberlandia;MG;636;2022-01-28
+1744;Flavia Cardoso;28;Rio de Janeiro;RJ;757;2024-02-10
+1745;Diego Barros;29;Fortaleza;CE;664;2022-05-27
+1746;Nelson Lacerda;52;Belo Horizonte;MG;542;2021-10-20
+1747;Camila Salgado;49;Curitiba;PR;618;2024-07-20
+1748;Otavio Ferraz;43;Joinville;SC;625;2023-07-19
+1749;Rodrigo Barros;51;Porto Alegre;RS;623;2023-03-04
+1750;Julia Oliveira;25;Rio de Janeiro;RJ;569;2020-02-06
+1751;Cesar Cardoso;18;Recife;PE;727;2023-07-16
+1752;Gabriela Junqueira;28;Goiania;GO;690;2025-10-07
+1753;Cesar Igreja;49;Sorocaba;SP;706;2021-01-30
+1754;Cesar Dias;37;Sao Paulo;SP;672;2023-12-10
+1755;Vanessa Pinheiro;18;Campinas;SP;691;2024-01-20
+1756;Cesar Junqueira;39;Joinville;SC;671;2021-07-14
+1757;Heitor Lacerda;37;Florianopolis;SC;651;2023-01-13
+1758;Ana Cardoso;58;Florianopolis;SC;513;2023-07-29
+1759;Wagner Igreja;57;Fortaleza;CE;844;2024-04-29
+1760;Wagner Cardoso;42;Porto Alegre;RS;633;2025-02-26
+1761;Cesar Nogueira;43;Belo Horizonte;MG;750;2022-07-06
+1762;Camila Cardoso;27;Sao Paulo;SP;627;2025-03-02
+1763;Sabrina Almeida;65;Curitiba;PR;553;2025-02-04
+1764;Leandro Cardoso;50;Recife;PE;646;2024-04-28
+1765;Sabrina Dias;52;Recife;PE;356;2020-05-19
+1766;Wagner Ribas;62;Sorocaba;SP;829;2022-11-07
+1767;Julia Pinheiro;48;Belo Horizonte;MG;565;2023-12-04
+1768;Igor Dias;25;Niteroi;RJ;664;2023-01-22
+1769;Joao Nogueira;55;Sao Paulo;SP;505;2021-05-01
+1770;Cesar Ferraz;24;Sao Paulo;SP;664;2020-12-05
+1771;Debora Dias;21;Salvador;BA;635;2020-10-02
+1772;Karina Lacerda;23;Belo Horizonte;MG;733;2023-08-11
+1773;Ana Nogueira;44;Sao Paulo;SP;578;2023-05-20
+1774;Diego Gouveia;33;Recife;PE;445;2021-12-26
+1775;Yasmin Lacerda;71;Campinas;SP;780;2022-10-21
+1776;Vanessa Almeida;43;Rio de Janeiro;RJ;562;2023-10-15
+1777;Camila Cardoso;45;Sao Paulo;SP;679;2024-02-23
+1778;Flavia Teixeira;20;Salvador;BA;568;2022-06-03
+1779;Yasmin Igreja;38;Sao Paulo;SP;722;2023-11-23
+1780;Bruno Esteves;53;Goiania;GO;622;2020-07-09
+1781;Diego Barros;44;Salvador;BA;587;2021-08-16
+1782;Isabela Cardoso;19;Curitiba;PR;453;2023-06-01
+1783;Bruno Cardoso;41;Sorocaba;SP;461;2022-08-08
+1784;Ana Igreja;48;Pelotas;RS;719;2024-06-17
+1785;Julia Machado;26;Sao Paulo;SP;575;2021-11-03
+1786;Sabrina Ferraz;43;Londrina;PR;537;2024-05-14
+1787;Leandro Igreja;30;Salvador;BA;679;2021-10-06
+1788;Leandro Ferraz;42;Goiania;GO;771;2020-01-20
+1789;Yasmin Dias;28;Joinville;SC;431;2023-02-18
+1790;Julia Ferraz;18;Goiania;GO;855;2022-09-20
+1791;Eduardo Nogueira;37;Florianopolis;SC;650;2025-07-31
+1792;Heitor Gouveia;48;Belo Horizonte;MG;699;2023-06-18
+1793;Eduardo Nogueira;47;Pelotas;RS;771;2021-10-27
+1794;Heitor Queiroz;38;Rio de Janeiro;RJ;598;2022-12-21
+1795;Helena Almeida;41;Sao Paulo;SP;760;2025-05-08
+1796;Diego Nogueira;36;Goiania;GO;554;2021-10-11
+1797;Heitor Junqueira;56;Fortaleza;CE;698;2025-08-03
+1798;Patricia Pinheiro;28;Rio de Janeiro;RJ;553;2020-06-14
+1799;Diego Dias;37;Niteroi;RJ;647;2020-10-05
+1800;Sabrina Queiroz;32;Curitiba;PR;699;2024-11-13
