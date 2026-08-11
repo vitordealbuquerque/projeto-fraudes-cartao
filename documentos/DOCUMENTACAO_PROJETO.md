@@ -149,7 +149,7 @@ Estrutura padrão de pastas
   clientes.csv, cartoes.csv, transacoes.csv
 
 04_prints/
-  print_dashboard_final.png, print_sql_evolucao_mensal.png, print_sql_percentis_valor.png
+  capa_linkedin.png, print_dashboard_final.png, print_sql_evolucao_mensal.png, print_sql_percentis_valor.png
 
 documentos/
   DOCUMENTACAO_PROJETO.md
