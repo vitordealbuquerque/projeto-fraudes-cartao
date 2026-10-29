@@ -4,10 +4,13 @@ Roda uma vez, exporta os 3 CSVs pra 03_dados/. Sem dado real de pessoa ou banco 
 """
 
 import random
+from pathlib import Path
 from datetime import datetime, timedelta
 
 import numpy as np
 import pandas as pd
+
+PASTA_DADOS = Path(__file__).resolve().parent / "03_dados"
 
 random.seed(7)
 np.random.seed(7)
@@ -215,9 +218,9 @@ df_clientes["score_credito"] = df_clientes["score_credito"].astype("Int64")
 
 df_transacoes["fraude"] = df_transacoes["fraude"].map({True: "t", False: "f"})
 
-df_clientes.to_csv("03_dados/clientes.csv", sep=";", index=False)
-df_cartoes.to_csv("03_dados/cartoes.csv", sep=";", index=False)
-df_transacoes.to_csv("03_dados/transacoes.csv", sep=";", index=False)
+df_clientes.to_csv(PASTA_DADOS / "clientes.csv", sep=";", index=False)
+df_cartoes.to_csv(PASTA_DADOS / "cartoes.csv", sep=";", index=False)
+df_transacoes.to_csv(PASTA_DADOS / "transacoes.csv", sep=";", index=False)
 
 print("clientes:", len(df_clientes))
 print("cartoes:", len(df_cartoes))
